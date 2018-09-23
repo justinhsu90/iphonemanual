@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>iPhone 6s Display Assembly Replacement</h1>
+    <h1>iPhone 6s Plus Teardown</h1>
     <div class="iphone6-evalute clear">
-      <div class="ip6l">
+      <div class="ip6l"> 
         <img src="https://ifixit-guide-images.zh.ifixit.com/igi/Fu1ZajDHpheFtmen.medium" alt="iPhone 6s Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
@@ -72,7 +72,7 @@
                   <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
                 </svg>
               </div>
-              <span>Sections</span>
+              <span>Sections</span>   
             </div>
             <div class="ip6R-evaluateR fr">
               7
@@ -1401,6 +1401,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../assets/scss/iphone6.scss";
+@import "../assets/scss/iphone6sp.scss";
 </style>
 

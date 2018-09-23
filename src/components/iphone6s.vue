@@ -1401,6 +1401,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../assets/scss/iphonese.scss";
+@import "../assets/scss/iphone6s.scss";
 </style>
 

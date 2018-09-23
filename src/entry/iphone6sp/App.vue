@@ -6,20 +6,19 @@
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphone6s></iphone6s>
-        </div>
+            <iphone6sp></iphone6sp>
+        </div>   
         <footer>Footer</footer>
     </div>
 </template>
 <script>
-import iphone6s from '@/components/iphone6s';
+import iphone6sp from '@/components/iphone6sp';
 export default {
     components:{
-        iphone6s
+        iphone6sp
     }
 }
 </script>
-
 <style lang="scss" type="text/scss">
 @import "../../assets/scss/reset.scss";
 section {
