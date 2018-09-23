@@ -12,7 +12,7 @@
     </div>
 </template>
 <style lang="scss" type="text/scss">
-@import "./assets/scss/reset.scss";
+@import "../../assets/scss/reset.scss";
 section {
     height: 68px; 
     background-color: #212426;
