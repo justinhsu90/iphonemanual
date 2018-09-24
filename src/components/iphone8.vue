@@ -1,0 +1,1433 @@
+<template>
+  <div>
+    <h1>iPhone 8 Battery Replacement</h1>
+    <div class="iphone6-evalute clear">
+      <div class="ip6l">
+        <img src="https://ifixit-guide-images.zh.ifixit.com/igi/ReOtObSpoQaoTNRp.medium" alt="iPhone 6s Display Assembly Replacement">
+        <P>
+          <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="8" r="7"></circle>
+              <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
+            </svg>
+          </i> Featured Guide
+        </P>  
+      </div>
+      <div class="ip6R">
+        <ul>
+          <li>
+            <div class="ip6R-evaluateL fl">
+              <div class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="12" cy="16" r="2"></circle>
+                  <line x1="12" y1="9" x2="12" y2="14"></line>
+                  <path d="M6,19H2V15a10,10,0,0,1,20,0v4H18"></path>
+                </svg>
+              </div>
+              <span>Difficulty</span>
+            </div>
+            <div class="ip6R-evaluateR fr origin">
+              <span></span>
+              <span></span>
+              <span></span>
+              Moderate
+            </div>
+          </li>
+          <li>
+            <div class="ip6R-evaluateL fl">
+              <div class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="8" y1="6" x2="21" y2="6"></line>
+                  <line x1="8" y1="12" x2="21" y2="12"></line>
+                  <line x1="8" y1="18" x2="21" y2="18"></line>
+                  <line x1="3" y1="6" x2="3" y2="6"></line>
+                  <line x1="3" y1="12" x2="3" y2="12"></line>
+                  <line x1="3" y1="18" x2="3" y2="18"></line>
+                </svg>
+              </div>
+              <span>Steps</span>
+            </div>
+            <div class="ip6R-evaluateR fr">
+              33
+            </div>
+          </li>
+          <li>
+            <div class="ip6R-evaluateL fl">
+              <div class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <polyline points="12 6 12 12 15 15"></polyline>
+                </svg>
+              </div>
+              <span>Time Required</span>
+            </div>
+            <div class="ip6R-evaluateR fr">
+              30 minutes - 2 hour
+            </div>
+          </li>
+          <li>
+            <div class="ip6R-evaluateL fl">
+              <div class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
+                </svg>
+              </div>
+              <span>Sections</span>
+            </div>
+            <div class="ip6R-evaluateR fr">
+              7
+              <div class="icon-Down">
+                <div class="icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="17 13 12 18 7 13"></polyline>
+                    <polyline points="17 7 12 12 7 7"></polyline>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="ip6R-evaluateL fl">
+              <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke-linejoin="round" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10">
+                  <path d="M13.71,3.86,22.18,18a2,2,0,0,1-1.71,3H3.53a2,2,0,0,1-1.71-3L10.29,3.86A2,2,0,0,1,13.71,3.86Z"></path>
+                  <line x1="12" y1="9" x2="12" y2="13"></line>
+                  <line x1="12" y1="17" x2="12" y2="17"></line>
+                </svg>
+              </div>
+              <span>Flags</span>
+            </div>
+            <div class="ip6R-evaluateR fr">
+              <span class="radius">
+                1
+              </span>
+              <div class="icon-Down">
+                <div class="icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="17 13 12 18 7 13"></polyline>
+                    <polyline points="17 7 12 12 7 7"></polyline>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="iphone6-introduce">
+      <h2>Introduction</h2>
+      <p>
+        Use this guide to revive your iPhone 8’s battery life and performance with a new battery.</p>
+      <P>This guide instructs you to completely detach the display assembly; this is intended to prevent accidental damage to the display cables. If you feel comfortable removing the battery without putting undue strain on the display cables, you can skip the steps for detaching the display. Additionally, while it’s possible to remove the adhesive strips securing the battery as soon as you open the phone, this guide recommends first removing the Taptic Engine. Doing so reduces the risk of breaking the lower adhesive strips accidentally, either by snagging them on the Taptic Engine, or by pulling the strips at too sharp of an angle.</P>
+      <P>For optimal performance after completing this guide, calibrate your newly installed battery: Drain it below 10%, then charge it uninterrupted to 100%.</P>
+    </div>
+    <br>
+    <br>
+    <div>
+      <div class="iphone6-tools">
+        <div class="iphone6-tools-heade">
+          <h5>Tools</h5>
+          <div class="buy">
+            <a href="javascript:void(0)">Buy these tools</a>
+          </div>
+        </div>
+        <div class="iphone6-tools-content">
+          <ul>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Phillips #000 Screwdriver</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Suction Handle</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Tri-point Y000 Screwdriver Bit</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">iFixit Opening Picks set of 6</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Standoff Screwdriver for iPhones</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">iOpener</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">P2 Pentalobe Screwdriver iPhone</a>
+            </li>
+            <li>
+                <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Spudger</a>
+            </li>
+            <li>
+            </li>
+            <li>
+                <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">Tweezers</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="iphone6-parts">
+        <div class="iphone6-parts-heade">
+          <h5>Parts</h5>
+          <div class="buy">
+            <a href="javascript:void(0)">Buy these Parts</a>
+          </div>
+        </div>
+        <div class="iphone6-parts-buy">
+          <a href="javascript:void(0)">
+            <img src="https://da2lh5cs8ikqj.cloudfront.net/cart-products/lT5scx4VeV6VxVOn.mini" alt="">
+          </a>
+          <a href="javascript:void(0)">
+            <p>iPhone 8 Replacement Battery </p>
+            <p>$44.99</p>
+          </a>
+          <a href="javascript:void(0)">
+            Buy
+          </a>
+        </div>
+        <div class="iphone6-parts-content">
+          <ul>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">iPhone 8 Battery Adhesive Strips</a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">iPhone 8/8 Plus Bottom Screws
+              </a>
+            </li>
+            <li>
+              <i class="el-icon-star-on  icon"></i>
+              <a href="javascript:void(0)">iPhone 8 Display Assembly Adhesive
+              </a>
+            </li>
+            <li>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div style="clear:both"></div>
+    </div>
+    
+    <div class="iphone6-introduction">
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 1
+            <span>Pentalobe Screws</span>
+          </a>
+        </h2>
+        <div class="content" style="width:100%">
+          <img :src="step1Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Before you begin, discharge your iPhone battery below 25%. A charged lithium-ion battery can catch fire and/or explode if accidentally punctured.
+              </li>
+              <li>
+                <i>●</i>
+                Power off your iPhone before beginning disassembly.</li>
+              <li>
+                <i class="bulletRed">●</i>
+                Remove the two 3.5 mm pentalobe screws on the bottom edge of the iPhone.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                Opening the iPhone's display will compromise its waterproof seals. Have replacement seals ready before you proceed past this step, or take care to avoid liquid exposure if you reassemble your iPhone without replacing the seals.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 2
+            <span>Opening Procedure</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step2Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+                Heating the lower edge of the iPhone will help soften the adhesive securing the display, making it easier to open.
+              </li>
+              <li>
+                <i>●</i>
+                Use a hairdryer or prepare an iOpener and apply it to the lower edge of the phone for about 90 seconds in order to soften up the adhesive underneath.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 3
+            <span>Opening Procedure</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step3Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                     <img v-for="(v,i) in step3" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,3)">
+                <div class="placeholder"></div> 
+              </li>
+              <li>
+                <i>●</i>
+               Apply a suction cup to the lower half of the front panel, just above the home button.</li>
+              <li class="info">
+                <i class="el-icon-info"></i> 
+                Be sure the suction cup does not overlap with the home button, as this will prevent a seal from forming between the suction cup and front glass.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 4
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step4Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step4" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,4)">
+              </li>
+              <li>
+                <i>●</i>
+                Pull up on the suction cup with firm, constant pressure to create a slight gap between the front panel and rear case.</li>
+              <li>
+                <i>●</i>
+                Insert an opening pick into the gap.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+               The watertight adhesive holding the display in place is very strong; creating this initial gap takes a significant amount of force. If you're having a hard time opening a gap, apply more heat, and gently rock the screen up and down to weaken the adhesive until you create enough of a gap to insert your tool.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 5
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step5Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step5" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,5)">
+              </li>
+              <li>
+                <i>●</i>
+                Slide the opening pick up the left edge of the phone starting at the lower edge and moving towards the volume control buttons and silent switch, breaking up the adhesive holding the display in place.</li>
+              <li>
+                <i>●</i>
+                Stop near the top left corner of the display.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Do not try to pry the top edge of the display away from the rear case, as it is held in place by plastic clips that may break.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 6
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step6Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                 <img v-for="(v,i) in step6" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,6)">
+              </li>
+              <li>
+                <i>●</i>
+               Re-insert your tool at the lower right corner of the iPhone, and slide it around the corner and up the right side of the phone to separate the adhesive.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Don't insert the pick very far, or you may damage the display cables along this side of the iPhone. Insert it only a few millimeters, or about the width of the display bezel.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 7
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step7Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                   <img v-for="(v,i) in step7" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,7)">
+                   <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i> 
+                  Gently pull up on the suction cup to lift up the bottom edge of the display.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                  Do not raise the display more than 15º or you'll risk straining or tearing the ribbon cables connecting the display.</li>
+              <li>
+                <i>●</i> 
+                  Pull on the small nub on the suction cup to remove it from the front panel.</li>    
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 8
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step8Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step8" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,8)">
+              </li>
+              <li>
+                <i>●</i>
+                Slide an opening pick underneath the display around the top left corner and along the top edge of the phone to loosen the last of the adhesive.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 9
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step9Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step9" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,9)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                Slide the display assembly slightly down (away from the top edge of the phone) to disengage the clips holding it to the rear case.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 10
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step10Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step10" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,10)">
+              </li>
+              <li>
+                <i>●</i>
+               Open the iPhone by swinging the display up from the left side, like the back cover of a book.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Don't try to fully separate the display yet, as several fragile ribbon cables still connect it to the iPhone's logic board.</li>
+                <li>
+                <i>●</i>
+              Lean the display against something to keep it propped up while you're working on the phone.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 11
+            <span>Battery Disconnection</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step11Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step11" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,11)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                Remove four Phillips screws securing the lower display cable bracket to the logic board, of the following lengths:</li>
+              <li>
+                <i class="bulletRed">●</i>
+                Two 1.3 mm screws</li>
+              <li>
+                <i class="bulletOrange">●</i>
+                Two 1.3 mm screws</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                Throughout this guide, keep careful track of your screws so that each one goes back where it came from during reassembly. Installing a screw in the wrong place can cause permanent damage.</li>
+              <li>
+                <i>●</i>
+                Remove the bracket.</li>  
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 12
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step12Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                  <img v-for="(v,i) in step12" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,12)">
+                  <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+               Use the point of a spudger to pry the battery connector out of its socket in the logic board.</li>
+              <li>
+                <i>●</i>
+               Bend the battery connector cable slightly away from the logic board to prevent it from accidentally making contact with the socket and providing power to the phone during your repair.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 13
+            <span>Display Assembly</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step13Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step13" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,13)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+               Use the point of a spudger to pry the lower display connector out of its socket.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+               To re-attach press connectors like this one, press down on one side until it clicks into place, then repeat on the other side. Do not press down on the middle. If the connector is even slightly misaligned, the connector can bend, causing permanent damage.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 14
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step14Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step14" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,14)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                Use the point of a spudger to disconnect the second lower display cable.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 15
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step15Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step15" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,15)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i class="bulletRed">●</i>
+               Remove the three 1.3 mm Phillips screws securing the bracket over the front panel sensor assembly connector.</li> 
+              <li>
+                <i>●</i>
+               Remove the bracket.</li> 
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 16
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step16Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step16" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,16)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                Use the point of a spudger to disconnect the front panel sensor assembly connector.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 17
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step17Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+               Remove the display assembly.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                During reassembly, pause here if you wish to replace the adhesive around the edges of the display.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 18
+            <span>Wi-Fi Diversity Antenna</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step18Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+                Remove the three screws securing the bracket next to the Taptic Engine:</li>
+              <li>
+                <i class="bulletRed">●</i>
+               One 1.3 mm Y000 screw</li>
+              <li>
+                <i class="bulletOrange">●</i>
+               One 2.7 mm Phillips screw</li>
+              <li>
+                <i class="bulletYellow">●</i>
+               One 2.9 mm Phillips screw</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 19
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step19Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+              Remove the bracket.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 20
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step20Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                   <img v-for="(v,i) in step20" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,20)">  
+              </li>
+              <li>
+                <i>●</i>
+              Gently slide an opening pick between the antenna flex cable and the top of the speaker.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                This portion of the flex cable is lightly adhered in place. If necessary, apply a little heat from an iOpener or hair dryer to soften the adhesive. This will make it easier to separate the flex cable safely.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 21
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step21Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                <img v-for="(v,i) in step21" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,21)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+              Use the point of a spudger to pry up and disconnect the diversity antenna flex cable from the logic board.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 22
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step22Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                  <img v-for="(v,i) in step22" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,22)">
+              </li>
+              <li>
+                <i>●</i>
+                Slide an opening pick under the antenna flex cable to hold the socket down.</li>
+              <li>
+                <i>●</i>
+                Use the point of your spudger to pry up and disconnect the antenna flex cable from its socket, using the opening pick to hold the socket down.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+               Reconnecting this cable can be tricky. Make it easier by using your tweezers to hold the flex cable so the connector aligns with its socket. Then, gently press straight down on the connector with the flat of your spudger until it clicks into place.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 23
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step23Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+                  Remove the Wi-Fi diversity antenna.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 24
+            <span>Taptic Engine</span>
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step24Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li class="mb0">
+              </li>
+              <li>
+                <i>●</i>
+               Remove the two screws securing the Taptic Engine:</li>
+              <li>
+                <i class="bulletRed">●</i>
+               One 2.1 mm Phillips screw</li>
+              <li>
+                <i class="bulletOrange">●</i>
+              One 2.1 mm standoff screw</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+              Standoff screws are best removed using an iPhone Standoff Screwdriver Bit and driver handle.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+             In a pinch, a small flathead screwdriver will do the job—but use extra caution to ensure it doesn't slip and damage surrounding components.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 25
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step25Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                   <img v-for="(v,i) in step25" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,25)">
+                   <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                 Use the point of your spudger to move the antenna cable socket up and away from the connector below it.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 26
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step25Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                   <img v-for="(v,i) in step26" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,26)">
+                   <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                 Use the point of your spudger to pry up and disconnect the Taptic Engine flex cable.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <br>
+      <hr>
+      <br>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="iphone6-conclusion">
+      <div class="header">
+        <h3>CONCLUSION</h3>
+      </div>
+      <div class="content">
+        <p>To reassemble your device, follow these instructions in reverse order.</p>
+        <a href="javascript:void(0)">
+          Give the author +30 points!
+        </a>
+      </div>
+      <div class="foot">
+        <a href="javascript:void(0)">
+          565 other people completed this guide.
+        </a>
+      </div>
+    </div>
+
+    <div class="iphone6-auto">
+      <div class="iphone6-auto-left">
+        <div class="left">
+          <h3>Author</h3>
+          <div>
+            <img src="https://ifixit-guide-images.zh.ifixit.com/igi/uYn4Ihpxm4PJCBrU.standard" alt="">
+            <div>
+              <p>Jeff Suovanen</p>
+              <p>Member since: 08/06/2013</p>
+              <p>178,602 Reputation</p>
+              <p>144 Guides authored</p>
+            </div>
+          </div>
+        </div>
+        <div class="right">
+          <div>
+            <p>with 4 other contributors</p>
+          </div>
+          <div>
+            <p>Badges:
+              <span style="color:#555">46</span>
+            </p>
+          </div>
+          <div>
+            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/artisan.svg" alt="">
+            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/demolitionist.svg" alt="">
+            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/devleoper.svg" alt="">
+          </div>
+          <div>
+            <p>+43 more badges</p>
+          </div>
+        </div>
+      </div>
+      <div class="iphone6-auto-right">
+        <h3>Team</h3>
+        <div>
+          <img src="https://ifixit-guide-images.zh.ifixit.com/igi/TS66OmLjO4QAsbrB.standard" alt="">
+          <div>
+            <p>iFixit</p>
+            <p>Community</p>
+            <p>106 Members</p>
+            <p>6,451 Guides authored</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+  </div>
+</template>
+<script>
+export default {
+    data() {
+        return {
+            step1Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/kH33mVcxVN2MyNsd.medium",
+            step2Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/HWFBtehBMjCQcFAc.medium",
+            step3Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/VRy3fVrOovwUCabE.medium",
+            step3: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/VRy3fVrOovwUCabE.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/A5IlSaM3n1xvayKW.medium"
+                }
+            ],    
+            step4Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/PnYJMHrBqA2Jh22u.medium",
+            step4: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/PnYJMHrBqA2Jh22u.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/5BxGfRPfmCqCLMOc.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/xYlJ5IgLFMxCDZ2B.medium"
+                }
+            ],
+            step5Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/2QPL6xQ1bKKTHEE2.medium",
+            step5: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/2QPL6xQ1bKKTHEE2.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/Scr2EQgs2BWhSj3N.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/KyO5DVLoiSXnDh2Z.medium"
+                }
+            ],
+            step6Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/bYHHQWBLX2SbZ4ZM.medium",
+            step6: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/bYHHQWBLX2SbZ4ZM.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/oWPIhKQUMFLQKwJF.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/VbhlSMqUKVaR3i4t.medium"
+                }
+            ],
+            step7Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/JsELGeLj2sULj4Rl.medium",
+            step7: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/JsELGeLj2sULj4Rl.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/1Q5TB6TXChTQrCSO.medium"
+                }
+            ],
+            step8Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/1wx6fuMwGlVmTVwg.medium",
+            step8: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/1wx6fuMwGlVmTVwg.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/L5DvjVj5xMJAlXg4.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/y6nMrARZIGjH4KZO.medium"
+                },
+            ],
+            step9Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/pmOBsioPu6PHdocL.medium",
+            step9: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/pmOBsioPu6PHdocL.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/wCWsnncFGO1Jy1KT.medium"
+                }
+            ],
+            step10Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/XaJPKiESSbHGIDqx.medium",
+            step10: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/XaJPKiESSbHGIDqx.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/TKsLuMfvlLBnsdMa.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/uyGD4MIvBrhLyuiO.medium"
+                }
+            ],
+            step11Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/X4JWAcg6GhHQOSP3.medium",
+            step11: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/X4JWAcg6GhHQOSP3.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/CnISuIWAepn3nMmI.medium"
+                },
+            ],
+            step12Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/vdubYBYlNkIsKuhK.medium",
+            step12: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/vdubYBYlNkIsKuhK.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/asfJCUmeGVaHpBuD.medium"
+                },
+            ],    
+            step13Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/TCwUjpw4oswOSAXN.medium",
+            step13: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/TCwUjpw4oswOSAXN.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/Vjj4xROqJwdhjhrT.medium"
+                }
+            ],
+            step14Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/nuu4q5qZrNVlF1n2.medium",
+            step14: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/nuu4q5qZrNVlF1n2.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/ZeGwj4XhWqCFSoRa.medium"
+                },
+            ],
+            step15Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/hGBZSQdwlg53JjuO.medium",
+            step15: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/hGBZSQdwlg53JjuO.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/EiOkLa1UAXIrQF1o.medium"
+                },
+            ],
+            step16Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/1qYKeCSMYWRsFEnh.medium",
+            step16: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/1qYKeCSMYWRsFEnh.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/tDDsCXEve1a6jSr3.medium"
+                },
+            ],
+            step17Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/VcZIwswUILoZYWbE.medium",
+            step18Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/SyQcEfDTqxleuWKE.medium",
+            step19Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/5KoNaCnsS45h63iP.medium",
+            step20Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/ncGOhLRkDOx2Mult.medium",
+            step20: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/ncGOhLRkDOx2Mult.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/NujVhqoQHFYtS6fr.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/vXrPQdGHOWDFmdCE.medium"
+                }
+            ],    
+            step21Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/IMLKvcy1xNDx4dxr.medium",
+            step21: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/IMLKvcy1xNDx4dxr.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/jBbJTffdKynHhqc1.medium"
+                }
+            ],
+            step22Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/pJqHXuiGUeK1MHqH.medium",
+            step22: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/pJqHXuiGUeK1MHqH.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/1OKES1mZHQoomjwl.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/t1OYSc6wMtsmXDxN.medium"
+                }
+            ],
+            step23Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/kTlHVuvV4brtO1dv.medium",
+            step24Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/TDsKeBFAjdlRryVX.medium",
+            step25Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/CaT4hdJwjHMQLCO3.medium",
+             step25: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/CaT4hdJwjHMQLCO3.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/hiC1BpHW23ZD3m6l.medium"
+                },
+            ],    
+            step26Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/AWwZAQpEw5HYCXQ5.medium",
+             step26: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/AWwZAQpEw5HYCXQ5.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/aQBMvqHUixXPZsj6.medium"
+                },
+            ],    
+            step27Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/LVa2PQ2qHAYAZ4JZ.medium",  
+            step28Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/QEiwXOLOCt5t6bkO.medium",  
+            step29Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/vs4oMYcRlWEFb2lY.medium",
+             step29: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/vs4oMYcRlWEFb2lY.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/jImYu1JRHGErUfnj.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/okM1ORGZUueh1Xi6.medium"
+                },
+            ],     
+            step30Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/4eDyPbJ62yPLKLAd.medium",
+             step30: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/4eDyPbJ62yPLKLAd.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/J3TMbulIt5RYhCcJ.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/fjKZrs3OCvNRVb3I.medium"
+                },
+            ],     
+            step31Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/yAxAcOuZkVKD1xAY.medium",
+             step31: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/yAxAcOuZkVKD1xAY.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/vMCND6xEQrEDRyJI.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/woB3TYHUSBFt1Phm.medium"
+                },
+            ],     
+            step32Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/DBnvH5CTIVnxfCdd.medium",
+             step32: [
+                {
+                    active: "active",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/DBnvH5CTIVnxfCdd.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://ifixit-guide-images.zh.ifixit.com/igi/Ch4yrKmbroeQvpsG.medium"
+                },
+            ], 
+            step33Src:
+                "https://ifixit-guide-images.zh.ifixit.com/igi/4bYRPYeqSJkQMwrH.medium",    
+        };
+    },
+    methods: {
+        handleEnter(i, v) {
+            this[`step${v}Src`] = this[`step${v}`][i].src;
+            _.each(this[`step${v}`], (value, index) => {
+                if (i == index) {
+                    value.active = "active";
+                } else {
+                    value.active = "";
+                }
+            });
+        }
+    }
+};
+</script>
+
+<style lang="scss" scoped>
+@import "../assets/scss/iphone8.scss";
+</style>
+
