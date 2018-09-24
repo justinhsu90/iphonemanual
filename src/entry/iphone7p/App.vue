@@ -6,16 +6,16 @@
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphonese></iphonese>
+            <iphone7p></iphone7p>
         </div>
         <footer>Footer</footer>
     </div>
 </template>
 <script>
-import iphonese from '@/components/iphonese';
+import iphone7p from '@/components/iphone7p';
 export default {
     components:{
-        iphonese
+        iphone7p
     }
 }
 </script>
