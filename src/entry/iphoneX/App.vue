@@ -6,27 +6,31 @@
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphone6s></iphone6s>
+            <iphoneX></iphoneX>
         </div>
         <footer>Footer</footer>
     </div>
 </template>
 <script>
-import iphone6s from '@/components/iphone6s';
+import iphoneX from '@/components/iphoneX';
 import directiveNav from '@/common/nav'
- export default {
+export default {
     components:{
-        iphone6s,
+        iphoneX,
         directiveNav
     }
 }
 </script>
-
 <style lang="scss" type="text/scss">
 @import "../../assets/scss/reset.scss";
 section {
     height: 68px; 
     background-color: #212426;
+}
+nav {
+    background: #f5f5f5;
+    border-bottom: 1px solid #e1e1e2;
+    height: 45px;
 }
 .container {
     background: red;

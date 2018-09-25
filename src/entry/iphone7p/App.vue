@@ -2,7 +2,7 @@
     <div id="app">
         <div>
         <section></section>
-        <nav></nav>
+        <directiveNav></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
@@ -13,9 +13,11 @@
 </template>
 <script>
 import iphone7p from '@/components/iphone7p';
+import directiveNav from '@/common/nav'
 export default {
     components:{
-        iphone7p
+        iphone7p,
+        directiveNav
     }
 }
 </script>

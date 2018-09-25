@@ -11,6 +11,7 @@ _.each(entry, (v) => {
   pages[v].entry = `src/entry/${v}/main.js`;
   pages[v].template = `public/${v}.html`;
   pages[v].filename = `${v}.html`;
+  pages[v].title = `${v}`;
 });
 
 module.exports = {
