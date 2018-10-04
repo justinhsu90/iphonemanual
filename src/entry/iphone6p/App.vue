@@ -2,21 +2,21 @@
     <div id="app">
         <div>
         <section></section>
-        <directiveNav select="/iphoneX"></directiveNav>
+        <directiveNav select="/iphone6p"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphoneX></iphoneX>
+            <iphone6p></iphone6p>
         </div>
         <footer>Footer</footer>
     </div>
 </template>
 <script>
-import iphoneX from '@/components/iphoneX';
+import iphone6p from '@/components/iphone6p';
 import directiveNav from '@/common/nav'
 export default {
     components:{
-        iphoneX,
+        iphone6p,
         directiveNav
     }
 }

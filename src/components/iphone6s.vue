@@ -197,7 +197,6 @@
           </ul>
         </div>
       </div>
-
     </div>
     <div class="iphone6-introduction">
       <div class="intp-step1">

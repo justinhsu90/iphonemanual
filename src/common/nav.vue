@@ -7,13 +7,16 @@
 </template>
 <script>
 export default {
+    props:['select'],
     data(){
-
         return{
-            select:'/',
             selectOption:[{
-                label:'iphone6',
+                label:'iphone6s',
                 value:'/'
+            },
+            {
+                label:'iphone6p',
+                value:'/iphone6p'
             },
             {
                 label:'iphone6sp',
@@ -54,6 +57,8 @@ nav {
     background: #f5f5f5;
     border-bottom: 1px solid #e1e1e2;
     height: 45px;
+    line-height: 45px;
+    padding-left: 10px;
 }
 </style>
 

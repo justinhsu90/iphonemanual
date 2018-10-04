@@ -319,7 +319,7 @@
                 <i>●</i>
                 Just a few turns from our Phillips and tri-point drivers and the display is free ... to hit the bench. For the full scoop on the display, check out our iPhone 8 Teardown.</li>
               <li class="info">
-                <i class="el-icon-info">●</i>
+                <i class="el-icon-info"></i>
                 Our parts testing crew reports that the 8 and 8 Plus use the exact same home button part, which should make that particular replacement part a little easier to source.</li>
               <li>
                 <i>●</i>

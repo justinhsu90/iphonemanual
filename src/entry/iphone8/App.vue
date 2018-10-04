@@ -2,7 +2,7 @@
     <div id="app">
         <div>
         <section></section>
-        <directiveNav></directiveNav>
+        <directiveNav select="/iphone8"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>

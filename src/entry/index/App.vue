@@ -2,7 +2,7 @@
     <div id="app">
         <div>
         <section></section>
-        <directiveNav></directiveNav>
+        <directiveNav select="/"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
