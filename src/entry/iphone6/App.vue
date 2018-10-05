@@ -2,31 +2,35 @@
     <div id="app">
         <div>
         <section></section>
-        <directiveNav select="iphone6s"></directiveNav>
+        <directiveNav select="/iphone6"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphone6s></iphone6s>
+            <iphone6></iphone6>
         </div>
         <footer>Footer</footer>
     </div>
 </template>
 <script>
-import iphone6s from '@/components/iphone6s';
+import iphone6 from '@/components/iphone6';
 import directiveNav from '@/common/nav'
- export default {
+export default {
     components:{
-        iphone6s,
+        iphone6,
         directiveNav
     }
 }
 </script>
-
 <style lang="scss" type="text/scss">
 @import "../../assets/scss/reset.scss";
 section {
     height: 68px; 
     background-color: #212426;
+}
+nav {
+    background: #f5f5f5;
+    border-bottom: 1px solid #e1e1e2;
+    height: 45px;
 }
 .container {
     background: red;

@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1>iPhone 7 Plus Display Assembly Replacement</h1>
+    <h1>iPhone 6 Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
       <div class="ip6l">
-        <img src="https://ifixit-guide-images.zh.ifixit.com/igi/ReOtObSpoQaoTNRp.medium" alt="iPhone 6s Display Assembly Replacement">
+        <img src="https://d3nevzfk7ii3be.cloudfront.net/igi/HFOPtfyXTSiAlZb2.medium" alt="iPhone 6 Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -48,7 +48,7 @@
               <span>Steps</span>
             </div>
             <div class="ip6R-evaluateR fr">
-              25
+              27
             </div>
           </li>
           <li>
@@ -62,7 +62,7 @@
               <span>Time Required</span>
             </div>
             <div class="ip6R-evaluateR fr">
-              30 minutes - 1 hour
+              20 minutes - 1 hour
             </div>
           </li>
           <li>
@@ -75,7 +75,7 @@
               <span>Sections</span>
             </div>
             <div class="ip6R-evaluateR fr">
-              6
+              5
               <div class="icon-Down">
                 <div class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -117,9 +117,9 @@
     <div class="iphone6-introduce">
       <h2>Introduction</h2>
       <p>
-        Use this guide if your new display assembly comes with the front-facing camera, earpiece speaker, and LCD shield plate already installed. You'll simply remove the old display assembly and transfer the home/Touch ID sensor to the new display assembly.</p>
-      <P>If your replacement display does not include those components, follow this more in-depth guide instead.</P>
-      <P>In both cases, the original home/Touch ID sensor must be transferred onto the new display in order for it to function.</P>
+        Use this guide to replace the screen on your iPhone 6. This guide will show you how to remove the old display and the home button. If you do not transfer your phone's original home button to the new display, you will lose Touch ID functionality.</p>
+      <P>If your replacement part does not have a speaker or front-facing camera sensor cable you should follow the complete transfer guide.</P>
+      <P>You can also use this guide to replace the front panel assembly cable bracket.</P>
     </div>
     <br>
     <br>
@@ -139,23 +139,19 @@
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iOpener</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
               <a href="javascript:void(0)">Suction Handle</a>
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Suction Handle</a>
+              <a href="javascript:void(0)">P2 Pentalobe Screwdriver iPhone</a>
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Tri-point Y000 Screwdriver Bit</a>
+              <a href="javascript:void(0)">iFixit Opening Tools</a>
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iFixit Opening Picks set of 6</a>
+              <a href="javascript:void(0)">iSclack</a>
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
@@ -163,7 +159,7 @@
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">P2 Pentalobe Screwdriver iPhone</a>
+              <a href="javascript:void(0)">Phillips #000 Screwdriver</a>
             </li>
             <li></li>
           </ul>
@@ -181,8 +177,8 @@
             <img src="https://da2lh5cs8ikqj.cloudfront.net/cart-products/lT5scx4VeV6VxVOn.mini" alt="">
           </a>
           <a href="javascript:void(0)">
-            <p>iPhone 7 Plus LCD Screen and Digitizer Full Assembly </p>
-            <p>$99.99</p>
+            <p>iPhone 6 LCD Screen and Digitizer Full Assembly </p>
+            <p>$64.99</p>
           </a>
           <a href="javascript:void(0)">
             Buy
@@ -192,25 +188,17 @@
           <ul>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 7 Plus Display Assembly Adhesive</a>
+              <a href="javascript:void(0)">NuGlas Tempered Glass Screen Protector for iPhone 6 6s</a>
             </li>
             <li>
               <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 7/7 Plus Bottom Screws
+              <a href="javascript:void(0)">iPhone 6 Front Panel Assembly Cable Bracket
               </a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 7 Plus Front Panel Assembly Cable Bracket
-              </a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">NuGlas Tempered Glass Screen Protector for iPhone 7 Plus/8 Plus</a>
             </li>
           </ul>
         </div>
       </div>
+      <div style="clear:both"></div>
     </div>
     <div class="iphone6-introduction">
       <div class="intp-step11">
@@ -226,19 +214,16 @@
             <ul>
               <li class="mb0">
               </li>
-              <li>
-                <i>●</i>
-                Before you begin, discharge your iPhone battery below 25%. A charged lithium-ion battery can catch fire and/or explode if accidentally punctured.
-              </li>
               <li class="warn">
                 <i class="el-icon-warning"></i>
+               Before disassembling your iPhone, discharge the battery below 25%. A charged lithium-ion battery can catch fire and/or explode if accidentally punctured.
+              </li>
+              <li>
+                <i>●</i>
                 Power off your iPhone before beginning disassembly.</li>
               <li>
                 <i>●</i>
-                Remove the two 3.4 mm pentalobe screws at the bottom edge of the iPhone.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                Opening the iPhone's display will compromise its waterproof seals. Have replacement seals ready before you proceed past this step, or take care to avoid liquid exposure if you reassemble your iPhone without replacing the seals.</li>
+                Remove the two 3.6 mm-long Pentalobe screws next to the Lightning connector.</li>
             </ul>
           </div>
         </div>
@@ -271,6 +256,12 @@
               <li class="info">
                 <i class="el-icon-info"></i>
                 This will keep glass shards contained and provide structural integrity when prying and lifting the display.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Wear safety glasses to protect your eyes from any glass shaken free during the repair.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+               If the broken glass makes it difficult to get a suction cup to stick in the next few steps, try folding a strong piece of tape (such as duct tape) into a handle and lifting the display with that instead.</li>
             </ul>
           </div>
         </div>
@@ -282,7 +273,7 @@
         <h2>
           <a href="javascript:void(0)">
             Step 3
-            <span>Opening Procedure</span>
+            <span>iSclack Opening Procedure</span>
           </a>
         </h2>
         <div class="content">
@@ -292,10 +283,13 @@
               <li class="mb0"></li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                Heating the lower edge of the iPhone will help soften the adhesive securing the display, making it easier to open.</li>
+               The next three steps demonstrate using the iSclack, a great tool for safely opening the iPhone 6 that we recommend for anyone doing more than one repair. If you aren't using the iSclack, skip down three steps for an alternate method.</li>
               <li>
                 <i>●</i>
-                Use a hairdryer or prepare an iOpener and apply it to the lower edge of the iPhone for about a minute in order to soften up the adhesive underneath.</li>
+               If the plastic depth gauge is attached at the center of the iSclack, remove it now—it's not needed for larger phones like the iPhone 6.</li>
+              <li>
+                <i>●</i>
+               Close the handle on the iSclack, opening the suction-cup jaws.</li>
             </ul>
           </div>
         </div>
@@ -319,10 +313,13 @@
               </li>
               <li>
                 <i>●</i>
-                Apply a suction cup to the lower half of the front panel, just above the home button.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                Be sure the suction cup does not overlap with the home button, as this will prevent a seal from forming between the suction cup and front glass.</li>
+                Place the bottom of your iPhone in between the suction cups.</li>
+              <li>
+                <i>●</i>
+               Position the iSclack's upper suction cup against the display, just above (but not covering) the home button.</li>
+              <li>
+                <i>●</i>
+               Open the handles to close the jaws of the iSclack. Center the suction cups and press them firmly onto the top and bottom of the iPhone.</li>
             </ul>
           </div>
         </div>
@@ -342,19 +339,20 @@
             <ul>
               <li>
                 <img v-for="(v,i) in step5" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,5)">
+                <div class="placeholder"></div>
               </li>
               <li>
                 <i>●</i>
-                Pull up on the suction cup with firm, constant pressure to create a slight gap between the front panel and rear case.</li>
+                Hold onto your iPhone securely and close the handle of the iSclack to separate the suction cups, pulling the front panel up from the rear case.</li>
               <li>
                 <i>●</i>
-                Insert the flat end of a spudger into the gap.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                The watertight adhesive holding the display in place is very strong; creating this initial gap takes a significant amount of force. If you're having a hard time opening a gap, rock the screen up and down to weaken the adhesive until you can fit a spudger inside.</li>
+               The iSclack is designed to safely open your iPhone just enough to separate the pieces, but not enough to damage the display cables.</li>
               <li>
                 <i>●</i>
-                While pulling up on the suction cup, twist the spudger to widen the opening between the screen and rear case.</li>
+               Peel the two suction cups off your iPhone.</li>
+              <li>
+                <i>●</i>
+              Skip the next three steps and continue on to Step 8.</li>
             </ul>
           </div>
         </div>
@@ -366,6 +364,7 @@
         <h2>
           <a href="javascript:void(0)">
             Step 6
+            <span>Manual Opening Procedure</span>
           </a>
         </h2>
         <div class="content">
@@ -376,13 +375,13 @@
               </li>
               <li>
                 <i>●</i>
-                If you don't have an iSclack, use a single suction cup to lift the front panel:</li>
+               If you don't have an iSclack, use a single suction cup to lift the front panel:</li>
               <li>
                 <i>●</i>
-                Press a suction cup onto the screen, just above the home button.</li>
+               Press a suction cup onto the screen, just above the home button.</li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                Be sure the cup is completely on the screen to get a tight seal.
+               Be sure the cup is pressed securely onto the screen to get a tight seal.
               </li>
             </ul>
           </div>
@@ -396,7 +395,6 @@
         <h2>
           <a href="javascript:void(0)">
             Step 7
-            <span>Start lifting the front panel assembly</span>
           </a>
         </h2>
         <div class="content">
@@ -407,20 +405,16 @@
               </li>
               <li class="warn">
                 <i class="el-icon-warning"></i>
-                The front panel is attached with clips, and there are several ribbon cables connecting it to the rest of the phone. Your goal here is to release the clips and open the phone only enough to disconnect the cables. Go slowly and carefully to avoid damage.</li>
-
+                While holding the iPhone down with one hand, pull up on the suction cup to slightly separate the front panel assembly from the rear case.</li>
+              <li>
+                <i>●</i>
+                Take your time and apply firm, constant force. The display assembly is a much tighter fit than most devices.</li>
+              <li>
+                <i>●</i>
+               Using a plastic opening tool, begin to gently pry the rear case down, away from the display assembly, while continuing to pull up with the suction cup.</li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                Make sure the suction cup is firmly attached to the front panel assembly near the home button.</li>
-              <li>
-                <i>●</i>
-                While holding the iPhone down with one hand, pull up on the suction cup to slightly separate the home button end of the front panel from the rear case.</li>
-              <li>
-                <i>●</i>
-                With a plastic opening tool, gently pry the edges of the rear case down, away from the front panel assembly, while you pull up with the suction cup.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Take your time and apply firm, constant force. The 5s front panel assembly is a much tighter fit than most devices.</li>
+                There are several clips holding the front panel assembly to the rear case, so you may need to use a combination of the suction cup and plastic opening tool to free the front panel assembly.</li>
             </ul>
           </div>
         </div>
@@ -443,15 +437,12 @@
                 <img v-for="(v,i) in step8" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,8)">
                 <div class="placeholder"></div>
               </li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Do not try to completely remove the front panel assembly from the rear case, as there are several delicate ribbon cables connecting them.</li>
+              <li>
+               <i>●</i>
+               Pull the plastic nub to release the vacuum seal on the suction cup.</li>
               <li>
                 <i>●</i>
-                Pull the plastic nub to release the vacuum seal on the suction cup.</li>
-              <li>
-                <i>●</i>
-                Remove the suction cup from the display assembly.</li>
+              Remove the suction cup from the display assembly.</li>
             </ul>
           </div>
         </div>
@@ -464,7 +455,7 @@
         <h2>
           <a href="javascript:void(0)">
             Step 9
-            <span>Removing the Touch ID cable bracket</span>
+            <span>Opening up the phone</span>
           </a>
         </h2>
         <div class="content">
@@ -476,19 +467,13 @@
               </li>
               <li>
                 <i>●</i>
-                Open the phone just enough to reveal the metal bracket covering the home button cable.</li>
-              <li>
-                <i>●</i>
-                Only the phone's original home button assembly will be capable of using the Touch ID functionality. If you rip the cable, installing a new home button will only restore ordinary home button functions, not the Touch ID features.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Do not open the phone too far or you risk damaging the home button cable, or the socket it plugs into. Keep the cable loose—if it is stretched taut, that's too far.</li>
-              <li>
-                <i>●</i>
-                Use the tip of a spudger to push the bracket free and remove it with tweezers.</li>
+                Open the iPhone by swinging the home button end of the front panel assembly away from the rear case, using the top of the phone as a hinge.</li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                The next two steps apply to reassembly. Skip them and continue to Step 12 until reassembly.</li>
+                Several clips along the top edge of the front panel form a partial hinge.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                During reassembly, align the clips just below the top edge of the rear case. Then, slide the front panel upward until its top edge is flush with that of the rear case.</li>
             </ul>
           </div>
         </div>
@@ -509,14 +494,16 @@
             <ul>
               <li>
                 <img v-for="(v,i) in step10" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,10)">
-                <div class="placeholder"></div>
               </li>
+              <li>
+                <i>●</i>
+                Open the display to about a 90º angle, and lean it against something to keep it propped up while you're working on the phone.</li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                During reassembly, you will need to reinstall the Touch ID cable bracket. The top of the bracket needs to slide between the battery and Touch ID cable connector, in front of the metal tab. The bottom must latch down over the connector.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                Slide the top of the bracket over the Touch ID cable connector from left to right.</li>
+               In a pinch, an unopened canned beverage works well for this.</li>
+              <li>
+                <i>●</i>
+              Add a rubber band to keep the display securely in place while you work. This prevents undue strain on the display cables.</li>
             </ul>
           </div>
         </div>
@@ -529,24 +516,24 @@
         <h2>
           <a href="javascript:void(0)">
             Step 11
+            <span>Removing the battery connector bracket screws</span>
           </a>
         </h2>
         <div class="content">
           <img :src="step11Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li>
-                <img v-for="(v,i) in step11" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,11)">
+              <li class="mb0">
               </li>
               <li>
                 <i>●</i>
-                Pull the display assembly slightly away from the top edge of the phone to disengage the clips holding it to the rear case.</li>
+                Remove the following Phillips screws from the battery connector bracket:</li>
               <li>
-                <i>●</i>
-                Open the iPhone by swinging the display up from the left side, like the back cover of a book.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Open the iPhone by swinging the display up from the left side, like the back cover of a book.</li>
+                <i class="bulletRed">●</i>
+               One 2.2 mm screw</li>
+              <li>
+                <i class="bulletOrange">●</i>
+               One 3.2 mm screw</li>
             </ul>
           </div>
         </div>
@@ -559,7 +546,6 @@
         <h2>
           <a href="javascript:void(0)">
             Step 12
-            <span>Battery Disconnection</span>
           </a>
         </h2>
         <div class="content">
@@ -570,13 +556,7 @@
               </li>
               <li>
                 <i>●</i>
-                Remove the following four tri-point Y000 screws securing the lower display cable bracket to the logic board:</li>
-              <li class="warn">
-                <i class="bulletRed">●</i>
-                Three 1.2 mm screws</li>
-              <li>
-                <i class="bulletOrange">●</i>
-                One 2.6 mm screw</li>
+                Remove the metal battery connector bracket from the iPhone.</li>
             </ul>
           </div>
         </div>
@@ -589,20 +569,22 @@
         <h2>
           <a href="javascript:void(0)">
             Step 13
-            <span>Opening up the phone</span>
+            <span>Disconnecting the battery connector</span>
           </a>
         </h2>
         <div class="content">
           <img :src="step13Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li>
-                <img v-for="(v,i) in step13" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,13)">
-                <div class="placeholder"></div>
+              <li class="mb0">
               </li>
               <li>
                 <i>●</i>
-                Remove the lower display cable bracket.</li>
+               Use a plastic opening tool to gently pry the battery connector up from its socket on the logic board.</li>
+             <li class="warn">
+               <i class="el-icon-warning"></i>
+               Take care to only pry up on the battery connector, and not the socket on the logic board. If you pry up on the logic board socket, you may break the connector entirely.
+               </li>  
             </ul>
           </div>
         </div>
@@ -615,21 +597,33 @@
         <h2>
           <a href="javascript:void(0)">
             Step 14
+            <span>Removing the front panel assembly cable bracket screws</span>
           </a>
         </h2>
         <div class="content">
           <img :src="step14Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li>
-                <img v-for="(v,i) in step14" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,14)">
+              <li class="mb0">
               </li>
               <li>
                 <i>●</i>
-                Use the point of a spudger to lift the battery connector out of its socket on the logic board.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                Bend the connector cable up slightly to prevent it from making contact with the socket and providing power to the phone.
+                Remove the following five Phillips screws securing the front panel assembly cable bracket:</li>
+              <li>
+                <i>●</i>
+                Three 1.2 mm screws
+              </li>
+              <li>
+                <i>●</i>
+                One 1.7 mm screw
+              </li>
+              <li>
+                <i>●</i>
+                One 3.1 mm screw
+              </li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+               Incorrect placement of these screws during reassembly will cause permanent damage to your iPhone's logic board.
               </li>
             </ul>
           </div>
@@ -649,21 +643,11 @@
           <img :src="step15Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li>
-                <img v-for="(v,i) in step15" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,15)">
+              <li class="mb0">
               </li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Make sure the battery is disconnected before you disconnect or reconnect the cables in this step.</li>
               <li>
                 <i>●</i>
-                Use the flat end of a spudger or a fingernail to disconnect the two lower display connectors by prying them straight up from their sockets on the logic board.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                To re-attach press connectors, press down on one end until it clicks into place, then repeat on the other end. Do not press down on the middle. If the connector is even slightly misaligned, the connector can bend, causing permanent damage.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                If you have a blank screen, white lines on the display, or partial or complete lack of touch response after reassembling your phone, try disconnecting and carefully reconnecting both of these cables and make sure they are fully seated.</li>
+               Remove the front panel assembly cable bracket from the logic board.</li>
             </ul>
           </div>
         </div>
@@ -684,19 +668,14 @@
             <ul>
               <li>
                 <img v-for="(v,i) in step16" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,16)">
+                <div class="placeholder"></div>
               </li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+               In the next four steps, take care to pry up only on the cable connectors, and not on their sockets on the logic board.</li>
               <li>
                 <i>●</i>
-                Remove the three tri-point Y000 screws securing the bracket over the front panel sensor assembly connector:</li>
-              <li>
-                <i class="bulletRed">●</i>
-                One 1.3 mm screw</li>
-              <li>
-                <i class="bulletOrange">●</i>
-                Two 1.0 mm screws</li>
-              <li>
-                <i>●</i>
-                Remove the bracket.</li>
+               Use a spudger or a fingernail to disconnect the front-facing camera and sensor cable connector.</li>
             </ul>
           </div>
         </div>
@@ -717,13 +696,11 @@
             <ul>
               <li>
                 <img v-for="(v,i) in step17" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,17)">
+                <div class="placeholder"></div>
               </li>
               <li>
                 <i>●</i>
-                Disconnect the front panel sensor assembly connector from its socket on the logic board.</li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                This press connector should also be reconnected one end at a time to minimize the risk of bending.</li>
+              Use a spudger or a fingernail to disconnect the home button cable connector.</li>
             </ul>
           </div>
         </div>
@@ -742,14 +719,19 @@
           <img :src="step18Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li class="mb0">
+              <li>
+                 <img v-for="(v,i) in step18" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,18)">
+                   <div class="placeholder"></div>
               </li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+               Make sure the battery is disconnected before you disconnect or reconnect the cable in this step.</li>
               <li>
                 <i>●</i>
-                Remove the display assembly.</li>
+              Use a spudger or a fingernail to disconnect the display data cable connector.</li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                During reassembly, pause here if you wish to replace the adhesive around the edges of the display.</li>
+              When reassembling your phone, the display data cable may pop off its connector. This can result in white lines or a blank screen when powering your phone back on. If that happens, simply reconnect the cable and power cycle your phone. The best way to power cycle your phone is to disconnect and reconnect the battery connector.</li>
             </ul>
           </div>
         </div>
@@ -769,17 +751,16 @@
           <img :src="step19Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li class="mb0">
+              <li>
+                 <img v-for="(v,i) in step19" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,19)">
+                   <div class="placeholder"></div>
               </li>
               <li>
                 <i>●</i>
-                Remove the four Y000 screws securing the bracket over the home/Touch ID sensor:</li>
-              <li>
-                <i class="bulletRed">●</i>
-                One 1.1 mm screw</li>
-              <li>
-                <i class="bulletOrange">●</i>
-                Three 1.3 mm screws</li>
+                Use the flat end of a spudger to disconnect the digitizer cable connector.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                When reconnecting the digitizer cable, do not press the center of the connector. Press one end of the connector, then press the opposite end. Pressing in the center of the connector can bend the component and cause digitizer damage.</li>
             </ul>
           </div>
         </div>
@@ -791,6 +772,7 @@
         <h2>
           <a href="javascript:void(0)">
             Step 20
+            <span>Separating front panel assembly and rear case</span>
           </a>
         </h2>
         <div class="content">
@@ -801,7 +783,7 @@
               </li>
               <li>
                 <i>●</i>
-                Remove the bracket that secures the home/Touch ID sensor.</li>
+                Remove the front panel assembly from the rear case.</li>
             </ul>
           </div>
         </div>
@@ -813,22 +795,18 @@
         <h2>
           <a href="javascript:void(0)">
             Step 21
+            <span>Home Button</span>
           </a>
         </h2>
         <div class="content">
           <img :src="step21Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li>
-                <img v-for="(v,i) in step21" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,21)">
-                <div class="placeholder"></div>
+              <li class="mb0">
               </li>
               <li>
-                <i>●</i>
-                Pry under the left edge of the home button cable connector to disconnect it from its socket.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                If the entire connector begins to flip up without separating, press down on the cable at the top edge of the connector with the flat of your spudger, while simultaneously prying up the left edge of the connector. Be very careful not to damage the cable or connector, or you will permanently disable the sensor.</li>
+                <i class="bulletRed">●</i>
+               Remove the two 1.9 mm Phillips screws securing the home button bracket.</li>
             </ul>
           </div>
         </div>
@@ -852,16 +830,7 @@
               </li>
               <li>
                 <i>●</i>
-                Carefully pry up the underlying connector and move it out of the way of the home/Touch ID cable.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                It's very easy to damage your iPhone during this step. Work slowly and take care where you pry with your tool. If you damage the Touch ID hardware, it can only be replaced by Apple.</li>
-              <li>
-                <i>●</i>
-                If the connector doesn't pry up easily, use a hair dryer or iOpener to heat and soften the adhesive securing the connector, and then try again.</li>
-              <li class="warn">
-                <i class="el-icon-warning"></i>
-                Don't try to detach the connector completely—simply flip it up slightly so that the underlying home/Touch ID sensor cable can be removed.</li>
+               Remove the home button bracket from the front panel.</li>
             </ul>
           </div>
         </div>
@@ -879,14 +848,13 @@
           <img :src="step23Src" alt="">
           <div class="intp-step11-right">
             <ul>
-              <li class="mb0">
+              <li>
+                    <img v-for="(v,i) in step23" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,23)">
+                <div class="placeholder"></div>  
               </li>
-              <li class="info">
-                <i class="el-icon-info"></i>
-                  Heating the area around the home/Touch ID sensor will help soften the adhesive holding its delicate cable in place, making it easier to remove safely.</li>
               <li>
                 <i>●</i>
-               Flip the display assembly over. Use a hairdryer or prepare an iOpener and apply it to the lower edge of the display for about 90 seconds in order to soften up the adhesive underneath.</li>
+                Use the point of a spudger to disconnect the home button cable connector by pushing it up and away from the home button.</li>
             </ul>
           </div>
         </div>
@@ -906,10 +874,17 @@
             <ul>
               <li>
                 <img v-for="(v,i) in step24" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,24)">
+                <div class="placeholder"></div>
               </li>
               <li>
                 <i>●</i>
-                Use an opening pick to gently separate the adhesive holding the home/Touch ID sensor cable to the back side of the display panel.</li>
+                Gently push the top left corner of the home button up away from the front panel.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+                Do not push the home button all the way through—you only need to get a corner free so that you can pry it free with a spudger.</li>
+              <li class="info">
+                <i class="el-icon-info"></i>
+                This membrane is very thin. If you feel like you're going to tear the button, apply mild heat (with an iOpener, heat gun, or hair dryer) and try again.</li>
             </ul>
           </div>
         </div>
@@ -927,17 +902,70 @@
           <img :src="step25Src" alt="">
           <div class="intp-step11-right">
             <ul>
+              <li>
+                    <img v-for="(v,i) in step25" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,25)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+                 Peel the home button the rest of the way off of the display by prying gently with a spudger.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+        <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 26
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step26Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
+              <li>
+                    <img v-for="(v,i) in step26" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,26)">
+                <div class="placeholder"></div>
+              </li>
+              <li>
+                <i>●</i>
+               Use the point of a spudger to carefully separate the home button cable from the adhesive securing it to the front panel.</li>
+              <li class="warn">
+                <i class="el-icon-warning"></i>
+               If the cable doesn't separate easily, apply heat using an iOpener or hair dryer to soften the adhesive, and try again. Be careful not to damage the cable.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+           <br>
+      <hr>
+      <br>
+      <div class="intp-step11">
+        <h2>
+          <a href="javascript:void(0)">
+            Step 27
+          </a>
+        </h2>
+        <div class="content">
+          <img :src="step27Src" alt="">
+          <div class="intp-step11-right">
+            <ul>
               <li class="mb0">
               </li>
               <li>
                 <i>●</i>
-                  Remove the home/Touch ID sensor assembly by lifting it through the front side of the display.</li>
+               Once all the adhesive has been separated, remove the home button from the front panel.</li>
               <li class="info">
-                <i class="el-icon-info"></i>  
-                To reinstall, first feed the cable through the hole in the front of the display.</li>
+                <i class="el-icon-info"></i>
+               If you are replacing a broken front panel, there may be glass shards stuck to the home button. Carefully remove any remaining glass before transferring your home button to a new display.</li>
               <li class="info">
-                <i class="el-icon-info"></i>  
-               Your replacement part may come with an extra Y000 screw already installed right of the Home Button. Remove the unnecessary screw so that you can reinstall the home button bracket.</li>
+                <i class="el-icon-info"></i>
+               Your replacement part may come with an extra Phillips screw already installed left of the Home Button. Remove the unnecessary screw so that you can reinstall the home button bracket.</li>
             </ul>
           </div>
         </div>
@@ -1026,299 +1054,254 @@ export default {
     data() {
         return {
             step1Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/lmhcoVgsVMmGK1sw.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4O2ARkdCHfToqXR4.medium",
             step2Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/Ig5vLyOaFbSqPtl3.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VZtFUbiTGlxKvKuS.medium",
             step2: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Ig5vLyOaFbSqPtl3.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/VZtFUbiTGlxKvKuS.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/BgjjokgRTOEeHDtq.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/nEk1gF4aPAU5BRUh.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/4MmKE22Cy2MavVZU.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/jIumJl2vN3XDIiSv.medium"
                 }
             ],
             step3Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/XUktKLOCPaciWbL2.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lCSBKARoSrbqSKpJ.medium",
             step4Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/QkQCsE1Zo1LMstsE.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMOmJOeIePXEbuUU.medium",
             step4: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/QkQCsE1Zo1LMstsE.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/WMOmJOeIePXEbuUU.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/bAxOw2QF2CDIYIpB.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/CIQUlfEiFxQ5w53L.medium"
                 }
             ],
             step5Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/B42ufcARi3bVAURY.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MlNXttTTxYMqtofx.medium",
             step5: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/B42ufcARi3bVAURY.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/MlNXttTTxYMqtofx.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/kPSe6jXIJFcBE5rk.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/qJeHEUiARuDmJKHH.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/TcGivUEKUMaUtbxe.medium"
                 }
             ],
             step6Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/kuaYdrJrBKqV2oiI.medium",
-            step6: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/kuaYdrJrBKqV2oiI.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/DppWOQQUFWhiIQmK.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/hviLJx3oefn6IJk3.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tVASlyobRWUtUITP.medium",           
             step7Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/ebTEdalPStEFwprn.medium",
-            step7: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/ebTEdalPStEFwprn.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/TcvF6HREfbLQd12j.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MGLBdBeSWIyyOerb.medium",
             step8Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/KRSf5aPqMubL3siA.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aoUmxefrhhoITNd2.medium",
             step8: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/KRSf5aPqMubL3siA.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/aoUmxefrhhoITNd2.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/rP5ESkqIt3tEq2Th.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/QMBDEMOKkVyKJACm.medium"
                 }
             ],
             step9Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/UqjoOlLyth4N5RTX.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ONXYNxUsYyiGKtVc.medium",
             step9: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/UqjoOlLyth4N5RTX.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/ONXYNxUsYyiGKtVc.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/YB3djkmK3OBKgwAR.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/4jAOTcFSqy1V1nWA.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/3TeINdNthdpHJc64.medium"
                 }
             ],
             step10Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/gQLjVmwVCr5rcqCo.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AQOUcvcwE4UwZn6b.medium",
             step10: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/gQLjVmwVCr5rcqCo.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/AQOUcvcwE4UwZn6b.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/KBRYMMwmcXRcyNMd.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/wmPfyERFHvWsVUWm.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/OjxCiEOx5GOIVTqJ.medium"
                 }
             ],
             step11Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/c3SYZXxuPyoxPGU2.medium",
-            step11: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/c3SYZXxuPyoxPGU2.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/A1WVvvZb1eBsEBvg.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Kb3jum1WnDlDRHJF.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CuN1pJx6i34sBlvk.medium",
             step12Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/UHPAQ4xaQQRZEEc2.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kUcLXEG5IkWMVrSB.medium",
             step13Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/k34xU4RKWbs1uk5K.medium",
-            step13: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/k34xU4RKWbs1uk5K.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/GKWmAgKZl1p5xwIU.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fDQLOkNrRLxSGXXn.medium",
             step14Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/VS1FiZyZHebFIuQo.medium",
-            step14: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/VS1FiZyZHebFIuQo.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/ZZUGd2VCcGplGEZm.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/uSeYoeEvmaI6TPuB.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jEbU1kAqyJg2xlME.medium",
             step15Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/EjPXnLkfPYtKriYF.medium",
-            step15: [
-                {
-                    active: "active",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/EjPXnLkfPYtKriYF.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/ohPCtWpSggN3HkmE.medium"
-                },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Fpc2oOAExSPUJGn2.medium"
-                }
-            ],
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I2CfcRfUlJQeAyLS.medium",
             step16Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/eOV4A2QhwOEwbiHK.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GuKSrJaywMjVJslO.medium",
             step16: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/eOV4A2QhwOEwbiHK.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/GuKSrJaywMjVJslO.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/PHEMGNluvvEJ1qga.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/onPDOYjEneRRYi5q.medium"
                 },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/AiXmxFQOUDwwQlS2.medium"
-                }
             ],
             step17Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/HP3GYMeDTQfroDSM.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FMaWSLOJiioj3iKM.medium",
             step17: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/HP3GYMeDTQfroDSM.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/FMaWSLOJiioj3iKM.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/rYVXLQtY5ZhLE5pe.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/mCJHVpK5ZN1HHvvV.medium"
                 }
             ],
             step18Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/5GSdVmWAQtTQeK4f.medium",
-            step19Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/ojlNJDTaqaI2sKKD.medium",
-            step20Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/EuPNDThIEkYVXCdo.medium",
-            step21Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/Zs4ZTIWOOiVLiCDp.medium",
-            step21: [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kufTCAQjVGVTWTh6.medium",
+            step18: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Zs4ZTIWOOiVLiCDp.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/kufTCAQjVGVTWTh6.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/pFmDxwA4SNWl4QFV.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/WWUtAOU6EKNC36xG.medium"
                 }
-            ],
+            ],    
+            step19Src:
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TIZ3B3wf34wu2FEB.medium",
+            step19: [
+                {
+                    active: "active",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/TIZ3B3wf34wu2FEB.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/QIGFyJCLEkPFaPNt.medium"
+                }
+            ],     
+            step20Src:
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JnixAiSWXrwm42CT.medium",
+            step21Src:
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZV26QgtMEpjEnHvn.medium",
             step22Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/dEqJbiZKyL5lkUMf.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CCSCNVLDBVAyFppv.medium",
             step22: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/dEqJbiZKyL5lkUMf.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/CCSCNVLDBVAyFppv.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/RsLY5rWUDpcGP3sH.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/qHc3cfXc3DluPrZj.medium"
                 }
             ],
             step23Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/PxAXBCMRKBJOIMIs.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jPqxBl4BUxyFIFoZ.medium",
+            step23: [
+                {
+                    active: "active",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/jPqxBl4BUxyFIFoZ.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/PdPbbiAUX3NhxIVh.medium"
+                }
+            ],    
             step24Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/pK4XTE2iKPQrM3vY.medium",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium",
             step24: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/pK4XTE2iKPQrM3vY.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium"
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/vkwK6UXHRn3BAVgJ.medium"
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium"
                 },
-                {
-                    active: "",
-                    src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/GJ26hPLXWKT6M1dR.medium"
-                }
             ],
             step25Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/DGDL2EBBRV4MPKPP.medium"
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4IQmR1cT64wZwwpq.medium",
+            step25: [
+                {
+                    active: "active",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/4IQmR1cT64wZwwpq.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/Hi1DlAptUgZYC2gK.medium"
+                },
+            ],     
+            step26Src:
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Mq4QutAIf5hyDv45.medium",
+            step26: [
+                {
+                    active: "active",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/Mq4QutAIf5hyDv45.medium"
+                },
+                {
+                    active: "",
+                    src:
+                        "https://d3nevzfk7ii3be.cloudfront.net/igi/MyonohJwiBS2Jsch.medium"
+                },
+            ], 
+            step27Src:
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HRKrrln2JqiU33CW.medium",    
         };
     },
     methods: {
@@ -1337,6 +1320,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../assets/scss/iphone7p.scss";
+@import "../assets/scss/iphone6.scss";
 </style>
 
