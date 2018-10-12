@@ -3,7 +3,7 @@
     <h1>iPhone 6 Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
       <div class="ip6l">
-        <img src="https://d3nevzfk7ii3be.cloudfront.net/igi/HFOPtfyXTSiAlZb2.medium" alt="iPhone 6 Display Assembly Replacement">
+        <img src="../../public/img/iphone6/title.jpeg" alt="iPhone 6 Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -174,7 +174,7 @@
         </div>
         <div class="iphone6-parts-buy">
           <a href="javascript:void(0)">
-            <img src="https://da2lh5cs8ikqj.cloudfront.net/cart-products/lT5scx4VeV6VxVOn.mini" alt="">
+            <img src="../../public/img/iphone6/small.jpeg" alt="">
           </a>
           <a href="javascript:void(0)">
             <p>iPhone 6 LCD Screen and Digitizer Full Assembly </p>
@@ -1000,7 +1000,7 @@
         <div class="left">
           <h3>Author</h3>
           <div>
-            <img src="https://ifixit-guide-images.zh.ifixit.com/igi/uYn4Ihpxm4PJCBrU.standard" alt="">
+            <img src="../../public/img/common/1.jpeg" alt="">
             <div>
               <p>Jeff Suovanen</p>
               <p>Member since: 08/06/2013</p>
@@ -1019,9 +1019,9 @@
             </p>
           </div>
           <div>
-            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/artisan.svg" alt="">
-            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/demolitionist.svg" alt="">
-            <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/devleoper.svg" alt="">
+            <img src="../../public/img/common/2.svg" alt="">
+            <img src="../../public/img/common/3.svg" alt="">
+            <img src="../../public/img/common/4.svg" alt="">
           </div>
           <div>
             <p>+43 more badges</p>
@@ -1031,7 +1031,7 @@
       <div class="iphone6-auto-right">
         <h3>Team</h3>
         <div>
-          <img src="https://ifixit-guide-images.zh.ifixit.com/igi/TS66OmLjO4QAsbrB.standard" alt="">
+          <img src="../../public/img/common/5.jpeg" alt="">
           <div>
             <p>iFixit</p>
             <p>Community</p>
@@ -1054,254 +1054,254 @@ export default {
     data() {
         return {
             step1Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/4O2ARkdCHfToqXR4.medium",
+                require('../../public/img/iphone6/1-1.jpeg'),
             step2Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/VZtFUbiTGlxKvKuS.medium",
+                require('../../public/img/iphone6/2-1.jpeg'),
             step2: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/VZtFUbiTGlxKvKuS.medium"
+                        require('../../public/img/iphone6/2-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/nEk1gF4aPAU5BRUh.medium"
+                        require('../../public/img/iphone6/2-2.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/jIumJl2vN3XDIiSv.medium"
+                        require('../../public/img/iphone6/2-3.jpeg'),
                 }
             ],
             step3Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/lCSBKARoSrbqSKpJ.medium",
+                require('../../public/img/iphone6/3-1.jpeg'),
             step4Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMOmJOeIePXEbuUU.medium",
+                require('../../public/img/iphone6/4-1.jpeg'),
             step4: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/WMOmJOeIePXEbuUU.medium"
+                        require('../../public/img/iphone6/4-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/CIQUlfEiFxQ5w53L.medium"
+                        require('../../public/img/iphone6/4-2.jpeg'),
                 }
             ],
             step5Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/MlNXttTTxYMqtofx.medium",
+                require('../../public/img/iphone6/5-1.jpeg'),
             step5: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/MlNXttTTxYMqtofx.medium"
+                        require('../../public/img/iphone6/5-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/TcGivUEKUMaUtbxe.medium"
+                        require('../../public/img/iphone6/5-2.jpeg'),
                 }
             ],
             step6Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/tVASlyobRWUtUITP.medium",           
+                require('../../public/img/iphone6/6-1.jpeg'),
             step7Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/MGLBdBeSWIyyOerb.medium",
+                require('../../public/img/iphone6/7-1.jpeg'),
             step8Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/aoUmxefrhhoITNd2.medium",
+                require('../../public/img/iphone6/8-1.jpeg'),
             step8: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/aoUmxefrhhoITNd2.medium"
+                        require('../../public/img/iphone6/8-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/QMBDEMOKkVyKJACm.medium"
+                        require('../../public/img/iphone6/8-2.jpeg'),
                 }
             ],
             step9Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/ONXYNxUsYyiGKtVc.medium",
+                require('../../public/img/iphone6/9-1.jpeg'),
             step9: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/ONXYNxUsYyiGKtVc.medium"
+                        require('../../public/img/iphone6/9-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/4jAOTcFSqy1V1nWA.medium"
+                        require('../../public/img/iphone6/9-2.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/3TeINdNthdpHJc64.medium"
+                        require('../../public/img/iphone6/9-3.jpeg'),
                 }
             ],
             step10Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/AQOUcvcwE4UwZn6b.medium",
+                require('../../public/img/iphone6/10-1.jpeg'),
             step10: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/AQOUcvcwE4UwZn6b.medium"
+                        require('../../public/img/iphone6/10-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/wmPfyERFHvWsVUWm.medium"
+                        require('../../public/img/iphone6/10-2.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/OjxCiEOx5GOIVTqJ.medium"
+                        require('../../public/img/iphone6/10-3.jpeg'),
                 }
             ],
             step11Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/CuN1pJx6i34sBlvk.medium",
+                require('../../public/img/iphone6/11-1.jpeg'),
             step12Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/kUcLXEG5IkWMVrSB.medium",
+                require('../../public/img/iphone6/12-1.jpeg'),
             step13Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/fDQLOkNrRLxSGXXn.medium",
+                require('../../public/img/iphone6/13-1.jpeg'),
             step14Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/jEbU1kAqyJg2xlME.medium",
+                require('../../public/img/iphone6/14-1.jpeg'),
             step15Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/I2CfcRfUlJQeAyLS.medium",
+                require('../../public/img/iphone6/15-1.jpeg'),
             step16Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/GuKSrJaywMjVJslO.medium",
+                require('../../public/img/iphone6/16-1.jpeg'),
             step16: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/GuKSrJaywMjVJslO.medium"
+                        require('../../public/img/iphone6/16-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/onPDOYjEneRRYi5q.medium"
+                        require('../../public/img/iphone6/16-2.jpeg'),
                 },
             ],
             step17Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/FMaWSLOJiioj3iKM.medium",
+                require('../../public/img/iphone6/17-1.jpeg'),
             step17: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/FMaWSLOJiioj3iKM.medium"
+                        require('../../public/img/iphone6/17-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/mCJHVpK5ZN1HHvvV.medium"
+                        require('../../public/img/iphone6/17-2.jpeg'),
                 }
             ],
             step18Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/kufTCAQjVGVTWTh6.medium",
+                require('../../public/img/iphone6/18-1.jpeg'),
             step18: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/kufTCAQjVGVTWTh6.medium"
+                        require('../../public/img/iphone6/18-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/WWUtAOU6EKNC36xG.medium"
+                        require('../../public/img/iphone6/18-2.jpeg'),
                 }
             ],    
             step19Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/TIZ3B3wf34wu2FEB.medium",
+                require('../../public/img/iphone6/19-1.jpeg'),
             step19: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/TIZ3B3wf34wu2FEB.medium"
+                        require('../../public/img/iphone6/19-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/QIGFyJCLEkPFaPNt.medium"
+                        require('../../public/img/iphone6/19-2.jpeg'),
                 }
             ],     
             step20Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/JnixAiSWXrwm42CT.medium",
+                require('../../public/img/iphone6/20-1.jpeg'),
             step21Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZV26QgtMEpjEnHvn.medium",
+                require('../../public/img/iphone6/21-1.jpeg'),
             step22Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/CCSCNVLDBVAyFppv.medium",
+                require('../../public/img/iphone6/22-1.jpeg'),
             step22: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/CCSCNVLDBVAyFppv.medium"
+                        require('../../public/img/iphone6/22-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/qHc3cfXc3DluPrZj.medium"
+                        require('../../public/img/iphone6/22-2.jpeg'),
                 }
             ],
             step23Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/jPqxBl4BUxyFIFoZ.medium",
+                require('../../public/img/iphone6/23-1.jpeg'),
             step23: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/jPqxBl4BUxyFIFoZ.medium"
+                        require('../../public/img/iphone6/23-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/PdPbbiAUX3NhxIVh.medium"
+                        require('../../public/img/iphone6/23-2.jpeg'),
                 }
             ],    
             step24Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium",
+                require('../../public/img/iphone6/24-1.jpeg'),
             step24: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium"
+                        require('../../public/img/iphone6/24-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/tZTMOEyaKASQ1uTc.medium"
+                        require('../../public/img/iphone6/24-2.jpeg'),
                 },
             ],
             step25Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/4IQmR1cT64wZwwpq.medium",
+                require('../../public/img/iphone6/25-1.jpeg'),
             step25: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/4IQmR1cT64wZwwpq.medium"
+                        require('../../public/img/iphone6/25-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/Hi1DlAptUgZYC2gK.medium"
+                        require('../../public/img/iphone6/25-2.jpeg'),
                 },
             ],     
             step26Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/Mq4QutAIf5hyDv45.medium",
+                require('../../public/img/iphone6/26-1.jpeg'),
             step26: [
                 {
                     active: "active",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/Mq4QutAIf5hyDv45.medium"
+                        require('../../public/img/iphone6/26-1.jpeg'),
                 },
                 {
                     active: "",
                     src:
-                        "https://d3nevzfk7ii3be.cloudfront.net/igi/MyonohJwiBS2Jsch.medium"
+                        require('../../public/img/iphone6/26-2.jpeg'),
                 },
             ], 
             step27Src:
-                "https://d3nevzfk7ii3be.cloudfront.net/igi/HRKrrln2JqiU33CW.medium",    
+                require('../../public/img/iphone6/27-1.jpeg'),
         };
     },
     methods: {

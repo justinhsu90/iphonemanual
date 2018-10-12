@@ -18,12 +18,12 @@ export default {
     data(){
         return{
             selectOption:[{
-                label:'iphone6s',
+                label:'iphone6',
                 value:'/'
             },
             {
-                label:'iphone6',
-                value:'/iphone6'
+                label:'iphone6s',
+                value:'/iphone6s'
             },
             {
                 label:'iphone6p',

@@ -1,22 +1,24 @@
 <template>
     <div id="app">
         <div>
-        <section></section>
-        <directiveNav select="/iphone6"></directiveNav>
+        <section style="line-height:68px;padding-left:20px;">
+            <h1 style="color:white;display:inline-block;">Apple phone screen change instructions</h1>       
+        </section>
+        <directiveNav select="/iphone6s"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
-            <iphone6></iphone6>
+            <iphone6s></iphone6s>
         </div>
-        <footer>Footer</footer>
+        <!-- <footer>Footer</footer> -->
     </div>
 </template>
 <script>
-import iphone6 from '@/components/iphone6';
+import iphone6s from '@/components/iphone6s';
 import directiveNav from '@/common/nav'
 export default {
     components:{
-        iphone6,
+        iphone6s,
         directiveNav
     }
 }

@@ -1,14 +1,16 @@
 <template>
     <div id="app">
         <div>
-        <section></section>
+        <section style="line-height:68px;padding-left:20px;">
+            <h1 style="color:white;display:inline-block;">Apple phone screen change instructions</h1>       
+        </section>
         <directiveNav select="/iphone6p"></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
             <iphone6p></iphone6p>
         </div>
-        <footer>Footer</footer>
+        <!-- <footer>Footer</footer> -->
     </div>
 </template>
 <script>

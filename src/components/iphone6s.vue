@@ -3,7 +3,7 @@
     <h1>iPhone 6s Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
       <div class="ip6l">
-        <img src="https://ifixit-guide-images.zh.ifixit.com/igi/Fu1ZajDHpheFtmen.medium" alt="iPhone 6s Display Assembly Replacement">
+        <img src="../../public/img/iphone6s/1.jpeg" alt="iPhone 6s Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -167,7 +167,7 @@
         </div>
         <div class="iphone6-parts-buy">
           <a href="javascript:void(0)">
-            <img src="https://da2lh5cs8ikqj.cloudfront.net/cart-products/lT5scx4VeV6VxVOn.mini" alt="">
+            <img src="../../public/img/iphone6s/small.jpeg" alt="">
           </a>
           <a href="javascript:void(0)">
             <p>iPhone 6s LCD Screen and Digitizer Full Assembly </p>
@@ -207,7 +207,7 @@
           </a>
         </h2>
         <div class="content">
-          <img src="https://ifixit-guide-images.zh.ifixit.com/igi/JATCLqMKWMWEOJKD.medium" alt="">
+          <img :src="step1Src" alt="">
           <div class="intp-step1-right">
             <ul>
               <li class="warn">
@@ -1005,51 +1005,52 @@
         </div>
     </div>
 
-    <div class="iphone6-auto">
-        <div class="iphone6-auto-left">
-          <div class="left">
-            <h3>Author</h3>
+     <div class="iphone6-auto">
+      <div class="iphone6-auto-left">
+        <div class="left">
+          <h3>Author</h3>
+          <div>
+            <img src="../../public/img/common/1.jpeg" alt="">
             <div>
-                <img src="https://ifixit-guide-images.zh.ifixit.com/igi/uYn4Ihpxm4PJCBrU.standard" alt="">
-                <div >
-                      <p>Jeff Suovanen</p>
-                      <p>Member since: 08/06/2013</p>
-                      <p>178,602 Reputation</p>
-                      <p>144 Guides authored</p>
-                </div>
+              <p>Jeff Suovanen</p>
+              <p>Member since: 08/06/2013</p>
+              <p>178,602 Reputation</p>
+              <p>144 Guides authored</p>
             </div>
           </div>
-          <div class="right">
-              <div>
-                  <p>with 4 other contributors</p>
-              </div>
-              <div>
-                  <p>Badges: <span style="color:#555">46</span></p>
-              </div>
-              <div>
-                  <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/artisan.svg" alt="">
-                  <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/demolitionist.svg" alt="">
-                  <img src="https://ifixit-assets.zh.ifixit.com/static/images/badges/devleoper.svg" alt="">
-              </div>
-              <div>
-                  <p>+43 more badges</p>
-              </div>
+        </div>
+        <div class="right">
+          <div>
+            <p>with 4 other contributors</p>
           </div>
-        </div>  
+          <div>
+            <p>Badges:
+              <span style="color:#555">46</span>
+            </p>
+          </div>
+          <div>
+            <img src="../../public/img/common/2.svg" alt="">
+            <img src="../../public/img/common/3.svg" alt="">
+            <img src="../../public/img/common/4.svg" alt="">
+          </div>
+          <div>
+            <p>+43 more badges</p>
+          </div>
+        </div>
+      </div>
       <div class="iphone6-auto-right">
-          <h3>Team</h3>
-             <div>
-                <img src="https://ifixit-guide-images.zh.ifixit.com/igi/TS66OmLjO4QAsbrB.standard" alt="">
-                <div >
-                      <p>iFixit</p>
-                      <p>Community</p>
-                      <p>106 Members</p>
-                      <p>6,451 Guides authored</p>
-                </div>
-            </div>  
-      </div>  
+        <h3>Team</h3>
+        <div>
+          <img src="../../public/img/common/5.jpeg" alt="">
+          <div>
+            <p>iFixit</p>
+            <p>Community</p>
+            <p>106 Members</p>
+            <p>6,451 Guides authored</p>
+          </div>
+        </div>
+      </div>
     </div>
-
     <br>
     <br>
     <hr>
@@ -1061,327 +1062,329 @@
 export default {
     data() {
         return {
+            step1Src:
+                require("../../public/img/iphone6s/2.jpeg"),
             step2Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/VZtFUbiTGlxKvKuS.medium",
+                require("../../public/img/iphone6s/3.jpeg"),
             step2: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/VZtFUbiTGlxKvKuS.medium"
+                          require("../../public/img/iphone6s/3.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/nEk1gF4aPAU5BRUh.medium"
+                        require("../../public/img/iphone6s/4.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/jIumJl2vN3XDIiSv.medium"
+                       require("../../public/img/iphone6s/5.jpeg"),
                 }
             ],
             step3Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/LtuRrFCWgKIDSXQE.medium",
+                require("../../public/img/iphone6s/6.jpeg"),
             step4Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/oUqaIslL5uwImgRi.medium",
+               require("../../public/img/iphone6s/7.jpeg"),
             step4: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/oUqaIslL5uwImgRi.medium"
+                        require("../../public/img/iphone6s/7.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/oUqaIslL5uwImgRi.medium"
+                       require("../../public/img/iphone6s/8.jpeg"),
                 }
             ],
             step5Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/bNlWf1ewXTsPHBju.medium",
+                require("../../public/img/iphone6s/9.jpeg"),
             step5: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/bNlWf1ewXTsPHBju.medium"
+                        require("../../public/img/iphone6s/9.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/bNlWf1ewXTsPHBju.medium"
+                         require("../../public/img/iphone6s/10.jpeg"),
                 }
             ],
             step6Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/pDC5SFHBMnLhxuHE.medium",
+                 require("../../public/img/iphone6s/11.jpeg"),
             step6: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/pDC5SFHBMnLhxuHE.medium"
+                         require("../../public/img/iphone6s/11.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/JSRTEF4HQZSKfG6i.medium"
+                         require("../../public/img/iphone6s/12.jpeg"),
                 }
             ],
             step7Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/oBXBCOdMFdHJVVNu.medium",
+                 require("../../public/img/iphone6s/13.jpeg"),
             step7: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/pDC5SFHBMnLhxuHE.medium"
+                         require("../../public/img/iphone6s/13.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/oBXBCOdMFdHJVVNu.medium"
+                         require("../../public/img/iphone6s/14.jpeg"),
                 }
             ],
             step8Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/6JILoTQpV2CABuqV.medium",
+                 require("../../public/img/iphone6s/15.jpeg"),
             step8: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/6JILoTQpV2CABuqV.medium"
+                         require("../../public/img/iphone6s/15.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/bbIsFyJxpHTDjUgj.medium"
+                        require("../../public/img/iphone6s/16.jpeg"),
                 }
             ],
             step9Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/JTZngdkAiPyWdYEd.medium",
+                require("../../public/img/iphone6s/17.jpeg"),
             step9: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/JTZngdkAiPyWdYEd.medium"
+                         require("../../public/img/iphone6s/17.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/LR2FVyTuVyrSBv6B.medium"
+                         require("../../public/img/iphone6s/18.jpeg"),
                 }
             ],
             step10Src:
-                "https://ifixit-guide-images.zh.ifixit.com/igi/nXuMuC2MrFRavEVN.medium",
+                 require("../../public/img/iphone6s/19.jpeg"),
             step10: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/JTZngdkAiPyWdYEd.medium"
+                         require("../../public/img/iphone6s/19.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/QCBTDZWVpn6fUynJ.medium"
+                         require("../../public/img/iphone6s/21.jpeg"),
                 }
             ],
-            step11Src:"https://ifixit-guide-images.zh.ifixit.com/igi/BeCr2QfjOsKYedGg.medium",
+            step11Src: require("../../public/img/iphone6s/22.jpeg"),
             step11: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/BeCr2QfjOsKYedGg.medium"
+                         require("../../public/img/iphone6s/22.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/XfGaCXcSuLUBRd4R.medium"
+                         require("../../public/img/iphone6s/23.jpeg"),
                 }
             ],
-            step12Src:"https://ifixit-guide-images.zh.ifixit.com/igi/lhyFVdXNmHJuvCNC.medium",
+            step12Src: require("../../public/img/iphone6s/24.jpeg"),
             step12: [
                 {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/lhyFVdXNmHJuvCNC.medium"
+                        require("../../public/img/iphone6s/24.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/RQOYQlb6PVVZfRY2.medium"
+                        require("../../public/img/iphone6s/25.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/rpvcWrYwKQvcyJI2.medium"
+                         require("../../public/img/iphone6s/26.jpeg"),
                 }
             ],
-            step13Src:"https://ifixit-guide-images.zh.ifixit.com/igi/UCFVo6ViPYHOBoSr.medium",
-            step14Src:"https://ifixit-guide-images.zh.ifixit.com/igi/Tkg3BNWC4uLteBVu.medium",
+            step13Src: require("../../public/img/iphone6s/27.jpeg"),
+            step14Src: require("../../public/img/iphone6s/28.jpeg"),
             step14: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Tkg3BNWC4uLteBVu.medium"
+                         require("../../public/img/iphone6s/28.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/OCYCpUjUcUb4fpD5.medium"
+                         require("../../public/img/iphone6s/29.jpeg"),
                 }
             ],
-            step15Src:"https://ifixit-guide-images.zh.ifixit.com/igi/aFOebibjGPDG3kKj.medium",
+            step15Src: require("../../public/img/iphone6s/30.jpeg"),
             step15: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/aFOebibjGPDG3kKj.medium"
+                         require("../../public/img/iphone6s/30.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/bmSuTNCd2VYuDBgj.medium"
+                         require("../../public/img/iphone6s/31.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/JUQVpTsWOMexRdXU.medium"
+                         require("../../public/img/iphone6s/32.jpeg"),
                 }
             ],
-            step16Src:"https://ifixit-guide-images.zh.ifixit.com/igi/EmMxeVeeFdYTQXiE.medium",
+            step16Src: require("../../public/img/iphone6s/33.jpeg"),
             step16: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/EmMxeVeeFdYTQXiE.medium"
+                         require("../../public/img/iphone6s/33.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/URwJFPnPqkwAgWJ3.medium"
+                         require("../../public/img/iphone6s/34.jpeg"),
                 }
             ],
-            step17Src:"https://ifixit-guide-images.zh.ifixit.com/igi/X3YWxpBc3PiXXvuS.medium",
-            step18Src:"https://ifixit-guide-images.zh.ifixit.com/igi/Q6DLMHNJxFZSLvIV.medium",
+            step17Src: require("../../public/img/iphone6s/35.jpeg"),
+            step18Src: require("../../public/img/iphone6s/36.jpeg"),
             step18: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Q6DLMHNJxFZSLvIV.medium"
+                         require("../../public/img/iphone6s/36.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/dW3Skxs2Qsklb1cU.medium"
+                         require("../../public/img/iphone6s/37.jpeg"),
                 }
             ],
-            step19Src:"https://ifixit-guide-images.zh.ifixit.com/igi/DFrxB3OWDCFJlMuW.medium",
+            step19Src: require("../../public/img/iphone6s/38.jpeg"),
             step19: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/DFrxB3OWDCFJlMuW.medium"
+                         require("../../public/img/iphone6s/38.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/efDnQ5L4xFYarO2k.medium"
+                         require("../../public/img/iphone6s/39.jpeg"),
                 }
             ],
-            step20Src:"https://ifixit-guide-images.zh.ifixit.com/igi/2C6YWNRbN1xEP6AN.medium",
+            step20Src: require("../../public/img/iphone6s/40.jpeg"),
             step20: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/2C6YWNRbN1xEP6AN.medium"
+                         require("../../public/img/iphone6s/40.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/C3JebmxAcjefVgvo.medium"
+                        require("../../public/img/iphone6s/41.jpeg"),
                 }
             ],
-            step21Src:"https://ifixit-guide-images.zh.ifixit.com/igi/ouGNonyQp2fylirv.medium",
+            step21Src: require("../../public/img/iphone6s/42.jpeg"),
             step21: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/ouGNonyQp2fylirv.medium"
+                         require("../../public/img/iphone6s/42.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/gFMNQTROC11nAGmb.medium"
+                         require("../../public/img/iphone6s/43.jpeg"),
                 }
             ],
-            step22Src:"https://ifixit-guide-images.zh.ifixit.com/igi/U2JJTtEXgAuBqOlJ.medium",
-            step23Src:"https://ifixit-guide-images.zh.ifixit.com/igi/nUZDVH56J6lqOyDH.medium",
-            step24Src:"https://ifixit-guide-images.zh.ifixit.com/igi/aLdRY2dGdyDSoy2M.medium",
+            step22Src: require("../../public/img/iphone6s/44.jpeg"),
+            step23Src: require("../../public/img/iphone6s/45.jpeg"),
+            step24Src: require("../../public/img/iphone6s/46.jpeg"),
             step24: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/aLdRY2dGdyDSoy2M.medium"
+                         require("../../public/img/iphone6s/46.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/HCuSprpFGtYAcaG2.medium"
+                         require("../../public/img/iphone6s/47.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/hNgxHDoTFr2cei1s.medium"
+                         require("../../public/img/iphone6s/48.jpeg"),
                 }
             ],
-            step25Src:"https://ifixit-guide-images.zh.ifixit.com/igi/3u2lIbmjHYwdT1Sh.medium",
+            step25Src: require("../../public/img/iphone6s/49.jpeg"),
             step25: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/3u2lIbmjHYwdT1Sh.medium"
+                         require("../../public/img/iphone6s/49.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/1Ofw5epCCr3HRpDO.medium"
+                         require("../../public/img/iphone6s/50.jpeg"),
                 }
             ],
-            step26Src:"https://ifixit-guide-images.zh.ifixit.com/igi/khVJ16SAljiyePAu.medium",
+            step26Src: require("../../public/img/iphone6s/51.jpeg"),
             step26: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/khVJ16SAljiyePAu.medium"
+                        require("../../public/img/iphone6s/51.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/uiJuGt46BBWjr1xi.medium"
+                         require("../../public/img/iphone6s/52.jpeg"),
                 }
             ],
-            step27Src:"https://ifixit-guide-images.zh.ifixit.com/igi/1CEVGy5y2EJJNIN2.medium",
+            step27Src: require("../../public/img/iphone6s/53.jpeg"),
             step27: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/1CEVGy5y2EJJNIN2.medium"
+                         require("../../public/img/iphone6s/53.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/Xj1eEtDkWVMNQdvb.medium"
+                         require("../../public/img/iphone6s/54.jpeg"),
                 }
             ],
-            step28Src:"https://ifixit-guide-images.zh.ifixit.com/igi/jNPYjQFKlTqpepEi.medium",
+            step28Src: require("../../public/img/iphone6s/55.jpeg"),
             step28: [
                   {
                     active: "active",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/jNPYjQFKlTqpepEi.medium"
+                         require("../../public/img/iphone6s/55.jpeg"),
                 },
                 {
                     active: "",
                     src:
-                        "https://ifixit-guide-images.zh.ifixit.com/igi/PLgORUJffKyaXNhO.medium"
+                         require("../../public/img/iphone6s/56.jpeg"),
                 }
             ],
-            step29Src:"https://ifixit-guide-images.zh.ifixit.com/igi/JSUFKab5MLPVMlXD.medium",
+            step29Src: require("../../public/img/iphone6s/57.jpeg"),
         };
     },
     methods: {
