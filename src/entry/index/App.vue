@@ -55,10 +55,10 @@ import directiveNav from '@/common/nav'
                 label:'iphone SE/5S',
                 value:'/iphonese'
             },
-            {
-                label:'iphone X',
-                value:'/iphoneX'
-            },
+            // {
+            //     label:'iphone X',
+            //     value:'/iphoneX'
+            // },
             ]
          }
      },
