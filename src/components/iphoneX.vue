@@ -2,7 +2,7 @@
   <div>
     <h1>iPhone X Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
-      <div class="ip6l">
+      <div class="ip6R">
         <img src="../../public/img/iphoneX/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
@@ -13,115 +13,18 @@
           </i> Featured Guide
         </P>
       </div>
-      <div class="ip6R">
-        <ul>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="16" r="2"></circle>
-                  <line x1="12" y1="9" x2="12" y2="14"></line>
-                  <path d="M6,19H2V15a10,10,0,0,1,20,0v4H18"></path>
-                </svg>
-              </div>
-              <span>Difficulty</span>
-            </div>
-            <div class="ip6R-evaluateR fr origin">
-              <span></span>
-              <span></span>
-              <span></span>
-              Moderate
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="8" y1="6" x2="21" y2="6"></line>
-                  <line x1="8" y1="12" x2="21" y2="12"></line>
-                  <line x1="8" y1="18" x2="21" y2="18"></line>
-                  <line x1="3" y1="6" x2="3" y2="6"></line>
-                  <line x1="3" y1="12" x2="3" y2="12"></line>
-                  <line x1="3" y1="18" x2="3" y2="18"></line>
-                </svg>
-              </div>
-              <span>Steps</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              29
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="10"></circle>
-                  <polyline points="12 6 12 12 15 15"></polyline>
-                </svg>
-              </div>
-              <span>Time Required</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              1 - 2 hour
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
-                </svg>
-              </div>
-              <span>Sections</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              4
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke-linejoin="round" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10">
-                  <path d="M13.71,3.86,22.18,18a2,2,0,0,1-1.71,3H3.53a2,2,0,0,1-1.71-3L10.29,3.86A2,2,0,0,1,13.71,3.86Z"></path>
-                  <line x1="12" y1="9" x2="12" y2="13"></line>
-                  <line x1="12" y1="17" x2="12" y2="17"></line>
-                </svg>
-              </div>
-              <span>Flags</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              <span class="radius">
-                1
-              </span>
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="iphone6-introduce">
+      <div class="ip6L">
+          <div class="iphone6-introduce">
       <h2>Introduction</h2>
       <p>
         Cracked screen? Touch not working? Bad OLED display? Use this guide to restore your iPhone X to working order with a new screen, a.k.a. display assembly.</p>
       <P>The combined earpiece speaker + sensor assembly affixed to the back of the display is paired to your individual iPhone from the factory, so you must transfer it from your old display to your new one during any display replacement. It contains the flood illuminator, which is part of the biometric Face ID security feature. If it is damaged or replaced, Face ID will cease to function, so take extra care not to damage any of these components during this procedure. If damaged, only Apple can restore Face ID function.</P>
       <p>Note: If your iPhone’s auto brightness feature does not work properly after your screen repair, make sure your iPhone is updated to iOS 12. True Tone functionality is disabled after a screen replacement, even when using an original Apple screen.</p>
+    </div>    
+      </div>
     </div>
-    <div class="iphone6-tools">
+    
+    <!-- <div class="iphone6-tools">
         <div class="iphone6-tools-heade">
           <h5>Tools</h5>
           <div class="buy">
@@ -197,7 +100,7 @@
           </ul>
         </div>
       </div>
-      <div style="clear:both"></div>
+      <div style="clear:both"></div> -->
     <br>
     <br>    
     <br>

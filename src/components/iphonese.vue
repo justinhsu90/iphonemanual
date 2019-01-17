@@ -2,8 +2,8 @@
   <div>
     <h1>iPhone SE Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
-      <div class="ip6l">
-        <img src="../../public/img/iphonese/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
+      <div class="ip6R">
+        <img src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -13,108 +13,8 @@
           </i> Featured Guide
         </P>
       </div>
-      <div class="ip6R">
-        <ul>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="16" r="2"></circle>
-                  <line x1="12" y1="9" x2="12" y2="14"></line>
-                  <path d="M6,19H2V15a10,10,0,0,1,20,0v4H18"></path>
-                </svg>
-              </div>
-              <span>Difficulty</span>
-            </div>
-            <div class="ip6R-evaluateR fr origin">
-              <span></span>
-              <span></span>
-              <span></span>
-              Moderate
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="8" y1="6" x2="21" y2="6"></line>
-                  <line x1="8" y1="12" x2="21" y2="12"></line>
-                  <line x1="8" y1="18" x2="21" y2="18"></line>
-                  <line x1="3" y1="6" x2="3" y2="6"></line>
-                  <line x1="3" y1="12" x2="3" y2="12"></line>
-                  <line x1="3" y1="18" x2="3" y2="18"></line>
-                </svg>
-              </div>
-              <span>Steps</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              31
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="10"></circle>
-                  <polyline points="12 6 12 12 15 15"></polyline>
-                </svg>
-              </div>
-              <span>Time Required</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              30 minutes - 1 hour
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
-                </svg>
-              </div>
-              <span>Sections</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              3
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke-linejoin="round" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10">
-                  <path d="M13.71,3.86,22.18,18a2,2,0,0,1-1.71,3H3.53a2,2,0,0,1-1.71-3L10.29,3.86A2,2,0,0,1,13.71,3.86Z"></path>
-                  <line x1="12" y1="9" x2="12" y2="13"></line>
-                  <line x1="12" y1="17" x2="12" y2="17"></line>
-                </svg>
-              </div>
-              <span>Flags</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              <span class="radius">
-                1
-              </span>
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="iphone6-introduce">
+      <div class="ip6L">
+        <div class="iphone6-introduce">
       <h2>Introduction</h2>
       <p>
         Use this guide to replace the cracked or broken screen on your iPhone SE by swapping out the display assembly.</p>
@@ -122,10 +22,13 @@
       <P>In either case, you must carefully transfer the iPhone's original home button to your new screen in order for Touch ID to function.</P>
       <P>The iPhone SE display assembly is compatible with OEM iPhone 5s displays. If you have an aftermarket part, you may experience compatibility issues.</P>
       <P>You can also use this guide to replace the front panel assembly cable bracket.</P>
+    </div>    
+      </div>
     </div>
+    
     <br>
     <br>
-    <div>
+    <!-- <div>
       <div class="iphone6-tools">
         <div class="iphone6-tools-heade">
           <h5>Tools</h5>
@@ -201,7 +104,7 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="iphone6-introduction">
       <div class="intp-step11">
         <h2>  
@@ -1185,320 +1088,320 @@ export default {
     data() {
         return {
             step1Src:
-                require('../../public/img/iphonese/1-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/1-1.jpeg',
             step1: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/1-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/1-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/1-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/1-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/1-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/1-3.jpeg',
                 },
             ],
             step2Src:
-                require('../../public/img/iphonese/2-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/2-1.jpeg',
             step3Src:
-                require('../../public/img/iphonese/3-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/3-1.jpeg',
             step3: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/3-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/3-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/3-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/3-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/3-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/3-3.jpeg',
                 }
             ],
             step4Src:
-                require('../../public/img/iphonese/4-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/4-1.jpeg',
             step4: [
                 {
                     active: "active",
                     src:
-                       require('../../public/img/iphonese/4-1.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/4-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/4-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/4-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/4-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/4-3.jpeg',
                 }
             ],
             step5Src:
-                require('../../public/img/iphonese/5-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/5-1.jpeg',
             step5: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/5-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/5-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/5-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/5-2.jpeg',
                 }
             ],
             step6Src:
-                require('../../public/img/iphonese/6-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/6-1.jpeg',
             step7Src:
-                require('../../public/img/iphonese/7-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/7-1.jpeg',
              step8Src:
-                require('../../public/img/iphonese/8-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/8-1.jpeg',
              step8: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/8-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/8-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/8-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/8-2.jpeg',
                 },
             ],    
             step9Src:
-                require('../../public/img/iphonese/9-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/9-1.jpeg',
             step9: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/9-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/9-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/9-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/9-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/9-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/9-3.jpeg',
                 }
             ],
             step10Src:
-                require('../../public/img/iphonese/10-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/10-1.jpeg',
             step10: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/10-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/10-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/10-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/10-2.jpeg',
                 },
             ],
             step11Src:
-                require('../../public/img/iphonese/11-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/11-1.jpeg',
             step11: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/11-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/11-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/11-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/11-2.jpeg',
                 },
             ],
             step12Src:
-                require('../../public/img/iphonese/12-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/12-1.jpeg',
             step12: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/12-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/12-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/12-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/12-2.jpeg',
                 },
             ],    
             step13Src:
-                require('../../public/img/iphonese/13-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/13-1.jpeg',
              step13: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/13-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/13-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/13-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/13-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/13-3.jpeg')
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/13-3.jpeg'
                 },
             ],       
             step14Src:
-                require('../../public/img/iphonese/14-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/14-1.jpeg',
             step15Src:
-                require('../../public/img/iphonese/15-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/15-1.jpeg',
             step16Src:
-                require('../../public/img/iphonese/16-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/16-1.jpeg',
             step16: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/16-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/16-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/16-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/16-2.jpeg',
                 },
             ],       
             step17Src:
-                require('../../public/img/iphonese/17-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/17-1.jpeg',
             step18Src:
-                require('../../public/img/iphonese/18-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/18-1.jpeg',
             step19Src:
-                require('../../public/img/iphonese/19-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/19-1.jpeg',
             step19: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/19-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/19-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/19-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/19-2.jpeg',
                 }
             ],
             step20Src:
-                require('../../public/img/iphonese/20-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/20-1.jpeg',
             step20: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/20-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/20-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/20-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/20-2.jpeg',
                 }
             ],
             step21Src:
-                require('../../public/img/iphonese/21-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/21-1.jpeg',
             step21: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/21-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/21-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/21-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/21-2.jpeg',
                 }
             ],
             step22Src:
-                require('../../public/img/iphonese/22-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/22-1.jpeg',
             step23Src:
-                require('../../public/img/iphonese/23-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/23-1.jpeg',
             step23: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/23-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/23-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/23-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/23-2.jpeg',
                 }
             ],
             step24Src:
-                require('../../public/img/iphonese/24-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/24-1.jpeg',
             step24: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/24-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/24-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/24-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/24-2.jpeg',
                 }
             ],
             step25Src:
-                require('../../public/img/iphonese/25-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/25-1.jpeg',
             step26Src:
-                require('../../public/img/iphonese/26-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/26-1.jpeg',
             step27Src:
-                require('../../public/img/iphonese/27-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/27-1.jpeg',
             step27: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/27-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/27-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/27-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/27-2.jpeg',
                 }
             ],     
             step28Src:
-                require('../../public/img/iphonese/28-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/28-1.jpeg',
             step28: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/28-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/28-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/28-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/28-2.jpeg',
                 }
             ],     
             step29Src:
-                require('../../public/img/iphonese/29-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/29-1.jpeg',
             step29: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphonese/29-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/29-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphonese/29-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/29-2.jpeg',
                 }
             ], 
               step30Src:
-                require('../../public/img/iphonese/30-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/30-1.jpeg',
               step31Src:
-                require('../../public/img/iphonese/31-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphonese/31-1.jpeg',
         };
     },
     methods: {

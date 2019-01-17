@@ -2,8 +2,8 @@
   <div>
     <h1>iPhone 6s Plus Teardown</h1>
     <div class="iphone6-evalute clear">
-      <div class="ip6l">
-        <img src="../../public/img/iphone6sp/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
+      <div class="ip6R">
+        <img src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
         <P>
           <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -13,113 +13,16 @@
           </i> Featured Guide
         </P>
       </div>
-      <div class="ip6R">
-        <ul>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="16" r="2"></circle>
-                  <line x1="12" y1="9" x2="12" y2="14"></line>
-                  <path d="M6,19H2V15a10,10,0,0,1,20,0v4H18"></path>
-                </svg>
-              </div>
-              <span>Difficulty</span>
-            </div>
-            <div class="ip6R-evaluateR fr origin">
-              <span></span>
-              <span></span>
-              <span></span>
-              Moderate
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="8" y1="6" x2="21" y2="6"></line>
-                  <line x1="8" y1="12" x2="21" y2="12"></line>
-                  <line x1="8" y1="18" x2="21" y2="18"></line>
-                  <line x1="3" y1="6" x2="3" y2="6"></line>
-                  <line x1="3" y1="12" x2="3" y2="12"></line>
-                  <line x1="3" y1="18" x2="3" y2="18"></line>
-                </svg>
-              </div>
-              <span>Steps</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              29
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="10"></circle>
-                  <polyline points="12 6 12 12 15 15"></polyline>
-                </svg>
-              </div>
-              <span>Time Required</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              30 minutes - 1 hour
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
-                </svg>
-              </div>
-              <span>Sections</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              7
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke-linejoin="round" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10">
-                  <path d="M13.71,3.86,22.18,18a2,2,0,0,1-1.71,3H3.53a2,2,0,0,1-1.71-3L10.29,3.86A2,2,0,0,1,13.71,3.86Z"></path>
-                  <line x1="12" y1="9" x2="12" y2="13"></line>
-                  <line x1="12" y1="17" x2="12" y2="17"></line>
-                </svg>
-              </div>
-              <span>Flags</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              <span class="radius">
-                1
-              </span>
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="iphone6-introduce">
+      <div class="ip6L">
+        <div class="iphone6-introduce">
       <h2>Introduction</h2>
       <p>
         It's time to tear down the biggest iPhone ever made—a fraction bigger even than last year's edition, the iPhone 6s Plus comes double-stuffed with new tech. To those of you joining us from the iPhone 6s teardown, welcome back! Here at iFixit, we have a habit of leaving no screw unturned—so with the first phone dispatched, we focus our attention on its Plus-sized counterpart.</p>
       <P>Can't get enough teardown talk? Neither can we! Follow us on Facebook, Instagram, or Twitter for the latest news from the repair world.</P>
+    </div>    
+      </div>
     </div>
+    
     <br>
     <br>
     <div class="iphone6-introduction">
@@ -856,240 +759,240 @@
 export default {
     data() {
         return {
-            step1Src:require('../../public/img/iphone6sp/1-1.jpeg'),
+            step1Src:'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/1-1.jpeg',
             step1: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/1-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/1-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/1-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/1-2.jpeg',
                 }
             ],
             step2Src:
-                require('../../public/img/iphone6sp/2-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/2-1.jpeg',
             step2: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/2-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/2-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/2-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/2-2.jpeg',
                 }
             ],
             step3Src:
-                require('../../public/img/iphone6sp/3-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/3-1.jpeg',
             step3: [
                 {
                     active: "active",
                     src:
-                         require('../../public/img/iphone6sp/3-1.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/3-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/3-2.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/3-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/3-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/3-3.jpeg',
                 }
             ],
             step4Src:
-                 require('../../public/img/iphone6sp/4-1.jpeg'),
+                 'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/4-1.jpeg',
             step4: [
                 {
                     active: "active",
                     src:
-                         require('../../public/img/iphone6sp/4-1.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/4-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/4-2.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/4-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/4-3.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/4-3.jpeg',
                 }
             ],
             step5Src:
-                 require('../../public/img/iphone6sp/5-1.jpeg'),
+                 'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/5-1.jpeg',
             step5: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/5-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/5-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/5-2.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/5-2.jpeg',
                 }
             ],
             step6Src:
-                 require('../../public/img/iphone6sp/6-1.jpeg'),
+                 'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/6-1.jpeg',
             step6: [
                 {
                     active: "active",
                     src:
-                         require('../../public/img/iphone6sp/6-1.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/6-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/6-2.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/6-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                         require('../../public/img/iphone6sp/6-3.jpeg'),
+                         'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/6-3.jpeg',
                 }
             ],
             step7Src:
-                 require('../../public/img/iphone6sp/7-1.jpeg'),
+                 'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/7-1.jpeg',
             step7: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/7-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/7-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/7-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/7-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                       require('../../public/img/iphone6sp/7-3.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/7-3.jpeg',
                 }
             ],
             step9Src:
-                require('../../public/img/iphone6sp/9-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/9-1.jpeg',
             step9: [
                 {
                     active: "active",
                     src:
-                       require('../../public/img/iphone6sp/9-1.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/9-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/9-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/9-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/9-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/9-3.jpeg',
                 }
             ],
             step10Src:
-                require('../../public/img/iphone6sp/10-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/10-1.jpeg',
             step10: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/10-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/10-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/10-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/10-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/10-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/10-3.jpeg',
                 }
             ],
             step11Src:
-                require('../../public/img/iphone6sp/11-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/11-1.jpeg',
             step11: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/11-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/11-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/11-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/11-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                       require('../../public/img/iphone6sp/11-3.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/11-3.jpeg',
                 }
             ],
             step12Src:
-                require('../../public/img/iphone6sp/12-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/12-1.jpeg',
             step13Src:
-                require('../../public/img/iphone6sp/13-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/13-1.jpeg',
             step14Src:
-                require('../../public/img/iphone6sp/14-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/14-1.jpeg',
             step15Src:
-               require('../../public/img/iphone6sp/15-1.jpeg'),
+               'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/15-1.jpeg',
             step16Src:
-                require('../../public/img/iphone6sp/16-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/16-1.jpeg',
             step17Src:
-                require('../../public/img/iphone6sp/17-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/17-1.jpeg',
              step17: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/17-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/17-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/17-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/17-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/17-3.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/17-3.jpeg',
                 }
             ],    
             step18Src:
-                require('../../public/img/iphone6sp/18-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/18-1.jpeg',
             step18: [
                 {
                     active: "active",
                     src:
-                        require('../../public/img/iphone6sp/18-1.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/18-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/18-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/18-2.jpeg',
                 },
                 {
                     active: "",
                     src:
-                       require('../../public/img/iphone6sp/18-3.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/18-3.jpeg',
                 }
             ],
             step19Src:
-                require('../../public/img/iphone6sp/19-1.jpeg'),
+                'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/19-1.jpeg',
             step19: [
                 {
                     active: "active",
                     src:
-                       require('../../public/img/iphone6sp/19-1.jpeg'),
+                       'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/19-1.jpeg',
                 },
                 {
                     active: "",
                     src:
-                        require('../../public/img/iphone6sp/19-2.jpeg'),
+                        'https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6sp/19-2.jpeg',
                 }
             ]
         };

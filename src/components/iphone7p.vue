@@ -2,128 +2,49 @@
   <div>
     <h1>iPhone 7 Plus Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
-      <div class="ip6l">
-        <img src="../../public/img/iphone7p/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
+      <div class="ip6R">
+        <img
+          src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/title.jpeg"
+          alt="iPhone 6s Display Assembly Replacement"
+        >
         <P>
-          <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="8" r="7"></circle>
+          <i
+            class="svg-icon"
+            style="display: inline-block; width: 24px; height: 24px;"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle
+                cx="12"
+                cy="8"
+                r="7"
+              ></circle>
               <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
             </svg>
           </i> Featured Guide
         </P>
       </div>
-      <div class="ip6R">
-        <ul>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="16" r="2"></circle>
-                  <line x1="12" y1="9" x2="12" y2="14"></line>
-                  <path d="M6,19H2V15a10,10,0,0,1,20,0v4H18"></path>
-                </svg>
-              </div>
-              <span>Difficulty</span>
-            </div>
-            <div class="ip6R-evaluateR fr origin">
-              <span></span>
-              <span></span>
-              <span></span>
-              Moderate
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="8" y1="6" x2="21" y2="6"></line>
-                  <line x1="8" y1="12" x2="21" y2="12"></line>
-                  <line x1="8" y1="18" x2="21" y2="18"></line>
-                  <line x1="3" y1="6" x2="3" y2="6"></line>
-                  <line x1="3" y1="12" x2="3" y2="12"></line>
-                  <line x1="3" y1="18" x2="3" y2="18"></line>
-                </svg>
-              </div>
-              <span>Steps</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              25
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="10"></circle>
-                  <polyline points="12 6 12 12 15 15"></polyline>
-                </svg>
-              </div>
-              <span>Time Required</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              30 minutes - 1 hour
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M19,21l-7-5L5,21V5A2,2,0,0,1,7,3H17a2,2,0,0,1,2,2Z"></path>
-                </svg>
-              </div>
-              <span>Sections</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              6
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="ip6R-evaluateL fl">
-              <div class="icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke-linejoin="round" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10">
-                  <path d="M13.71,3.86,22.18,18a2,2,0,0,1-1.71,3H3.53a2,2,0,0,1-1.71-3L10.29,3.86A2,2,0,0,1,13.71,3.86Z"></path>
-                  <line x1="12" y1="9" x2="12" y2="13"></line>
-                  <line x1="12" y1="17" x2="12" y2="17"></line>
-                </svg>
-              </div>
-              <span>Flags</span>
-            </div>
-            <div class="ip6R-evaluateR fr">
-              <span class="radius">
-                1
-              </span>
-              <div class="icon-Down">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="17 13 12 18 7 13"></polyline>
-                    <polyline points="17 7 12 12 7 7"></polyline>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="iphone6-introduce">
+      <div class="ip6L">
+          <div class="iphone6-introduce">
       <h2>Introduction</h2>
       <p>
         Use this guide if your new display assembly comes with the front-facing camera, earpiece speaker, and LCD shield plate already installed. You'll simply remove the old display assembly and transfer the home/Touch ID sensor to the new display assembly.</p>
       <P>If your replacement display does not include those components, follow this more in-depth guide instead.</P>
       <P>In both cases, the original home/Touch ID sensor must be transferred onto the new display in order for it to function.</P>
+    </div>    
+      </div>
     </div>
+    
     <br>
     <br>
-    <div>
+    <!-- <div>
       <div class="iphone6-tools">
         <div class="iphone6-tools-heade">
           <h5>Tools</h5>
@@ -178,7 +99,10 @@
         </div>
         <div class="iphone6-parts-buy">
           <a href="javascript:void(0)">
-            <img src="../../public/img/iphone7p/small.jpeg" alt="">
+            <img
+              src="../../public/img/iphone7p/small.jpeg"
+              alt=""
+            >
           </a>
           <a href="javascript:void(0)">
             <p>iPhone 7 Plus LCD Screen and Digitizer Full Assembly </p>
@@ -211,7 +135,7 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="iphone6-introduction">
       <div class="intp-step11">
         <h2>
@@ -220,8 +144,14 @@
             <span>Pentalobe Screws</span>
           </a>
         </h2>
-        <div class="content" style="width:100%">
-          <img :src="step1Src" alt="">
+        <div
+          class="content"
+          style="width:100%"
+        >
+          <img
+            :src="step1Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -254,11 +184,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step2Src" alt="">
+          <img
+            :src="step2Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step2" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,2)">
+                <img
+                  v-for="(v,i) in step2"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,2)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -286,7 +226,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step3Src" alt="">
+          <img
+            :src="step3Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0"></li>
@@ -310,11 +253,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step4Src" alt="">
+          <img
+            :src="step4Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step4" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,4)">
+                <img
+                  v-for="(v,i) in step4"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,4)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li>
@@ -337,11 +290,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step5Src" alt="">
+          <img
+            :src="step5Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step5" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,5)">
+                <img
+                  v-for="(v,i) in step5"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,5)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -369,7 +332,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step6Src" alt="">
+          <img
+            :src="step6Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -400,7 +366,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step7Src" alt="">
+          <img
+            :src="step7Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -436,11 +405,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step8Src" alt="">
+          <img
+            :src="step8Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step8" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,8)">
+                <img
+                  v-for="(v,i) in step8"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,8)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li class="warn">
@@ -468,11 +447,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step9Src" alt="">
+          <img
+            :src="step9Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step9" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,9)">
+                <img
+                  v-for="(v,i) in step9"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,9)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li>
@@ -505,11 +494,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step10Src" alt="">
+          <img
+            :src="step10Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step10" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,10)">
+                <img
+                  v-for="(v,i) in step10"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,10)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li class="info">
@@ -533,11 +532,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step11Src" alt="">
+          <img
+            :src="step11Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step11" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,11)">
+                <img
+                  v-for="(v,i) in step11"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,11)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -564,7 +573,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step12Src" alt="">
+          <img
+            :src="step12Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -594,11 +606,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step13Src" alt="">
+          <img
+            :src="step13Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step13" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,13)">
+                <img
+                  v-for="(v,i) in step13"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,13)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li>
@@ -619,11 +641,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step14Src" alt="">
+          <img
+            :src="step14Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step14" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,14)">
+                <img
+                  v-for="(v,i) in step14"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,14)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -647,11 +679,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step15Src" alt="">
+          <img
+            :src="step15Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step15" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,15)">
+                <img
+                  v-for="(v,i) in step15"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,15)"
+                >
               </li>
               <li class="warn">
                 <i class="el-icon-warning"></i>
@@ -680,11 +722,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step16Src" alt="">
+          <img
+            :src="step16Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step16" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,16)">
+                <img
+                  v-for="(v,i) in step16"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,16)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -713,11 +765,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step17Src" alt="">
+          <img
+            :src="step17Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step17" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,17)">
+                <img
+                  v-for="(v,i) in step17"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,17)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li>
@@ -741,7 +803,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step18Src" alt="">
+          <img
+            :src="step18Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -768,7 +833,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step19Src" alt="">
+          <img
+            :src="step19Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -796,7 +864,10 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step20Src" alt="">
+          <img
+            :src="step20Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
@@ -818,11 +889,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step21Src" alt="">
+          <img
+            :src="step21Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step21" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,21)">
+                <img
+                  v-for="(v,i) in step21"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,21)"
+                >
                 <div class="placeholder"></div>
               </li>
               <li>
@@ -845,12 +926,22 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step22Src" alt="">
+          <img
+            :src="step22Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                  <img v-for="(v,i) in step22" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,22)">
-                <div class="placeholder"></div>  
+                <img
+                  v-for="(v,i) in step22"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,22)"
+                >
+                <div class="placeholder"></div>
               </li>
               <li>
                 <i>●</i>
@@ -878,17 +969,20 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step23Src" alt="">
+          <img
+            :src="step23Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
               </li>
               <li class="info">
                 <i class="el-icon-info"></i>
-                  Heating the area around the home/Touch ID sensor will help soften the adhesive holding its delicate cable in place, making it easier to remove safely.</li>
+                Heating the area around the home/Touch ID sensor will help soften the adhesive holding its delicate cable in place, making it easier to remove safely.</li>
               <li>
                 <i>●</i>
-               Flip the display assembly over. Use a hairdryer or prepare an iOpener and apply it to the lower edge of the display for about 90 seconds in order to soften up the adhesive underneath.</li>
+                Flip the display assembly over. Use a hairdryer or prepare an iOpener and apply it to the lower edge of the display for about 90 seconds in order to soften up the adhesive underneath.</li>
             </ul>
           </div>
         </div>
@@ -903,11 +997,21 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step24Src" alt="">
+          <img
+            :src="step24Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li>
-                <img v-for="(v,i) in step24" :key="i" :class="v.active" :src="v.src" alt="" @mouseenter="handleEnter(i,24)">
+                <img
+                  v-for="(v,i) in step24"
+                  :key="i"
+                  :class="v.active"
+                  :src="v.src"
+                  alt=""
+                  @mouseenter="handleEnter(i,24)"
+                >
               </li>
               <li>
                 <i>●</i>
@@ -926,20 +1030,23 @@
           </a>
         </h2>
         <div class="content">
-          <img :src="step25Src" alt="">
+          <img
+            :src="step25Src"
+            alt=""
+          >
           <div class="intp-step11-right">
             <ul>
               <li class="mb0">
               </li>
               <li>
                 <i>●</i>
-                  Remove the home/Touch ID sensor assembly by lifting it through the front side of the display.</li>
+                Remove the home/Touch ID sensor assembly by lifting it through the front side of the display.</li>
               <li class="info">
-                <i class="el-icon-info"></i>  
+                <i class="el-icon-info"></i>
                 To reinstall, first feed the cable through the hole in the front of the display.</li>
               <li class="info">
-                <i class="el-icon-info"></i>  
-               Your replacement part may come with an extra Y000 screw already installed right of the Home Button. Remove the unnecessary screw so that you can reinstall the home button bracket.</li>
+                <i class="el-icon-info"></i>
+                Your replacement part may come with an extra Y000 screw already installed right of the Home Button. Remove the unnecessary screw so that you can reinstall the home button bracket.</li>
             </ul>
           </div>
         </div>
@@ -968,12 +1075,15 @@
         </a>
       </div>
     </div>
-  <div class="iphone6-auto">
+    <div class="iphone6-auto">
       <div class="iphone6-auto-left">
         <div class="left">
           <h3>Author</h3>
           <div>
-            <img src="../../public/img/common/1.jpeg" alt="">
+            <img
+              src="../../public/img/common/1.jpeg"
+              alt=""
+            >
             <div>
               <p>Jeff Suovanen</p>
               <p>Member since: 08/06/2013</p>
@@ -992,9 +1102,18 @@
             </p>
           </div>
           <div>
-            <img src="../../public/img/common/2.svg" alt="">
-            <img src="../../public/img/common/3.svg" alt="">
-            <img src="../../public/img/common/4.svg" alt="">
+            <img
+              src="../../public/img/common/2.svg"
+              alt=""
+            >
+            <img
+              src="../../public/img/common/3.svg"
+              alt=""
+            >
+            <img
+              src="../../public/img/common/4.svg"
+              alt=""
+            >
           </div>
           <div>
             <p>+43 more badges</p>
@@ -1004,7 +1123,10 @@
       <div class="iphone6-auto-right">
         <h3>Team</h3>
         <div>
-          <img src="../../public/img/common/5.jpeg" alt="">
+          <img
+            src="../../public/img/common/5.jpeg"
+            alt=""
+          >
           <div>
             <p>iFixit</p>
             <p>Community</p>
@@ -1023,287 +1145,225 @@
 </template>
 <script>
 export default {
-    data() {
-        return {
-            step1Src:
-                require('../../public/img/iphone7p/1-1.jpeg'),
-            step2Src:
-                require('../../public/img/iphone7p/2-1.jpeg'),
-            step2: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/2-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/2-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/2-3.jpeg'),
-                }
-            ],
-            step3Src:
-                require('../../public/img/iphone7p/3-1.jpeg'),
-            step4Src:
-                require('../../public/img/iphone7p/4-1.jpeg'),
-            step4: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/4-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/4-2.jpeg'),
-                }
-            ],
-            step5Src:
-                require('../../public/img/iphone7p/5-1.jpeg'),
-            step5: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/5-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/5-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/5-3.jpeg'),
-                }
-            ],
-            step6Src:
-                require('../../public/img/iphone7p/6-1.jpeg'),
-            step7Src:
-                require('../../public/img/iphone7p/7-1.jpeg'),
-            step8Src:
-                require('../../public/img/iphone7p/8-1.jpeg'),
-            step8: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/8-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                       require('../../public/img/iphone7p/8-2.jpeg'),
-                }
-            ],
-            step9Src:
-               require('../../public/img/iphone7p/9-1.jpeg'),
-            step9: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/9-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/9-2.jpeg'),
-                }
-            ],
-            step10Src:
-                require('../../public/img/iphone7p/10-1.jpeg'),
-            step10: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/10-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                       require('../../public/img/iphone7p/10-2.jpeg'),
-                }
-            ],
-            step11Src:
-                require('../../public/img/iphone7p/11-1.jpeg'),
-            step11: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/11-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/11-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/11-3.jpeg'),
-                }
-            ],
-            step12Src:
-                require('../../public/img/iphone7p/12-1.jpeg'),
-            step13Src:
-                require('../../public/img/iphone7p/13-1.jpeg'),
-            step13: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/13-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/13-2.jpeg')
-                }
-            ],
-            step14Src:
-                require('../../public/img/iphone7p/14-1.jpeg'),
-            step14: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/14-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                       require('../../public/img/iphone7p/14-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/14-3.jpeg'),
-                }
-            ],
-            step15Src:
-                require('../../public/img/iphone7p/15-1.jpeg'),
-            step15: [
-                {
-                    active: "active",
-                    src:
-                       require('../../public/img/iphone7p/15-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/15-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/15-3.jpeg'),
-                }
-            ],
-            step16Src:
-                require('../../public/img/iphone7p/16-1.jpeg'),
-            step16: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/16-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/16-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/16-3.jpeg'),
-                }
-            ],
-            step17Src:
-                require('../../public/img/iphone7p/17-1.jpeg'),
-            step17: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/17-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/17-2.jpeg'),
-                }
-            ],
-            step18Src:
-                require('../../public/img/iphone7p/18-1.jpeg'),
-            step19Src:
-                require('../../public/img/iphone7p/19-1.jpeg'),
-            step20Src:
-                require('../../public/img/iphone7p/20-1.jpeg'),
-            step21Src:
-                require('../../public/img/iphone7p/21-1.jpeg'),
-            step21: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/21-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                       require('../../public/img/iphone7p/21-2.jpeg'),
-                }
-            ],
-            step22Src:
-                require('../../public/img/iphone7p/22-1.jpeg'),
-            step22: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/22-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/22-2.jpeg'),
-                }
-            ],
-            step23Src:
-                require('../../public/img/iphone7p/23-1.jpeg'),
-            step24Src:
-                require('../../public/img/iphone7p/24-1.jpeg'),
-            step24: [
-                {
-                    active: "active",
-                    src:
-                        require('../../public/img/iphone7p/24-1.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/24-2.jpeg'),
-                },
-                {
-                    active: "",
-                    src:
-                        require('../../public/img/iphone7p/24-3.jpeg'),
-                }
-            ],
-            step25Src:
-                require('../../public/img/iphone7p/25-1.jpeg'),
-        };
-    },
-    methods: {
-        handleEnter(i, v) {
-            this[`step${v}Src`] = this[`step${v}`][i].src;
-            _.each(this[`step${v}`], (value, index) => {
-                if (i == index) {
-                    value.active = "active";
-                } else {
-                    value.active = "";
-                }
-            });
+  data() {
+    return {
+      step1Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/1-1.jpeg",
+      step2Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/2-1.jpeg",
+      step2: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/2-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/2-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/2-3.jpeg"
         }
+      ],
+      step3Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/3-1.jpeg",
+      step4Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/4-1.jpeg",
+      step4: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/4-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/4-2.jpeg"
+        }
+      ],
+      step5Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/5-1.jpeg",
+      step5: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/5-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/5-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/5-3.jpeg"
+        }
+      ],
+      step6Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/6-1.jpeg",
+      step7Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/7-1.jpeg",
+      step8Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/8-1.jpeg",
+      step8: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/8-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/8-2.jpeg"
+        }
+      ],
+      step9Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/9-1.jpeg",
+      step9: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/9-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/9-2.jpeg"
+        }
+      ],
+      step10Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/10-1.jpeg",
+      step10: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/10-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/10-2.jpeg"
+        }
+      ],
+      step11Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/11-1.jpeg",
+      step11: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/11-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/11-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/11-3.jpeg"
+        }
+      ],
+      step12Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/12-1.jpeg",
+      step13Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/13-1.jpeg",
+      step13: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/13-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/13-2.jpeg"
+        }
+      ],
+      step14Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/14-1.jpeg",
+      step14: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/14-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/14-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/14-3.jpeg"
+        }
+      ],
+      step15Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/15-1.jpeg",
+      step15: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/15-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/15-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/15-3.jpeg"
+        }
+      ],
+      step16Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/16-1.jpeg",
+      step16: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/16-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/16-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/16-3.jpeg"
+        }
+      ],
+      step17Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/17-1.jpeg",
+      step17: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/17-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/17-2.jpeg"
+        }
+      ],
+      step18Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/18-1.jpeg",
+      step19Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/19-1.jpeg",
+      step20Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/20-1.jpeg",
+      step21Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/21-1.jpeg",
+      step21: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/21-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/21-2.jpeg"
+        }
+      ],
+      step22Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/22-1.jpeg",
+      step22: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/22-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/22-2.jpeg"
+        }
+      ],
+      step23Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/23-1.jpeg",
+      step24Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/24-1.jpeg",
+      step24: [
+        {
+          active: "active",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/24-1.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/24-2.jpeg"
+        },
+        {
+          active: "",
+          src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/24-3.jpeg"
+        }
+      ],
+      step25Src: "https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone7p/25-1.jpeg"
+    };
+  },
+  methods: {
+    handleEnter(i, v) {
+      this[`step${v}Src`] = this[`step${v}`][i].src;
+      _.each(this[`step${v}`], (value, index) => {
+        if (i == index) {
+          value.active = "active";
+        } else {
+          value.active = "";
+        }
+      });
     }
+  }
 };
 </script>
 

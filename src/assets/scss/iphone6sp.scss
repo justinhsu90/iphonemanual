@@ -7,8 +7,8 @@ h1 {
 .iphone6-evalute {
     margin-top: 15px;
 
-    .ip6l {
-        float: left;
+    .ip6R{
+        float: right;
         width: 405px;
         position: relative;
         border: 1px solid rgba(0, 0, 0, 0.2);
@@ -46,8 +46,8 @@ h1 {
         }
     }
 
-    .ip6R {
-        float: right;
+    .ip6L {
+        float: left;
         width: 536px;
 
         ul,
@@ -157,8 +157,6 @@ h1 {
 }
 
 .iphone6-introduce {
-    margin-top: 50px;
-
     h2 {
         margin-bottom: 18px;
         font-size: 24px;

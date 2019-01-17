@@ -6,10 +6,6 @@
             </div>
               <el-button slot="reference"  size="small">Switch language</el-button>  
         </el-popover>
-        
-        <el-select  style="margin-left:10px;" size="small" v-model="select" @change="handlSelect">
-            <el-option v-for="(v,i) in selectOption" :label="v.label" :value="v.value" :key="i"></el-option>
-        </el-select>
     </nav>
 </template>
 <script>
@@ -18,41 +14,41 @@ export default {
     data(){
         return{
             selectOption:[{
-                label:'iphone6',
+                label:'iphone 6',
                 value:'/'
             },
             {
-                label:'iphone6s',
+                label:'iphone 6S',
                 value:'/iphone6s'
             },
             {
-                label:'iphone6p',
+                label:'iphone 6 Plus',
                 value:'/iphone6p'
             },
             {
-                label:'iphone6sp',
+                label:'iphone 6S Plus',
                 value:'/iphone6sp'
             },
             {
-                label:'iphone7p',
+                label:'iphone 7 Plus',
                 value:'/iphone7p'
             },
             {
-                label:'iphone8',
+                label:'iphone 8',
                 value:'/iphone8'
             },
             {
-                label:'iphone8p',
+                label:'iphone 8 Plus',
                 value:'/iphone8p'
             },
             {
-                label:'iphonese',
+                label:'iphone SE/5S',
                 value:'/iphonese'
             },
-            {
-                label:'iphoneX',
-                value:'/iphoneX'
-            },
+            // {
+            //     label:'iphone X',
+            //     value:'/iphoneX'
+            // },
             ]
         }
     },

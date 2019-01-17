@@ -3,6 +3,9 @@
         <div>
         <section style="line-height:68px;padding-left:20px;">
             <h1 style="color:white;display:inline-block;">Apple phone screen change instructions</h1>       
+            <el-select  style="margin-left:10px;float:right" size="small" v-model="select" @change="handlSelect">
+            <el-option v-for="(v,i) in selectOption" :label="v.label" :value="v.value" :key="i"></el-option>
+        </el-select>
         </section>
         <directiveNav select="/"></directiveNav>
      </div>   
@@ -17,9 +20,60 @@
 import iphone6 from '@/components/iphone6';
 import directiveNav from '@/common/nav'
  export default {
+     data(){
+         return {
+            select:'/',
+            selectOption:[{
+                label:'iphone 6',
+                value:'/'
+            },
+            {
+                label:'iphone 6S',
+                value:'/iphone6s'
+            },
+            {
+                label:'iphone 6 Plus',
+                value:'/iphone6p'
+            },
+            {
+                label:'iphone 6S Plus',
+                value:'/iphone6sp'
+            },
+            {
+                label:'iphone 7 Plus',
+                value:'/iphone7p'
+            },
+            {
+                label:'iphone 8',
+                value:'/iphone8'
+            },
+            {
+                label:'iphone 8 Plus',
+                value:'/iphone8p'
+            },
+            {
+                label:'iphone SE/5S',
+                value:'/iphonese'
+            },
+            {
+                label:'iphone X',
+                value:'/iphoneX'
+            },
+            ]
+         }
+     },
     components:{
         iphone6,
         directiveNav
+    },
+    methods:{
+        handlSelect(v){
+            if(v == '/' ){
+                 window.location.href = `/`;
+          }else{
+               window.location.href = `${v}.html`;
+          }
+        }
     }
 }
 </script>
@@ -28,18 +82,15 @@ import directiveNav from '@/common/nav'
 @import "../../assets/scss/reset.scss";
 section {
     height: 68px; 
-    background-color: #212426;
+    background-color: rgb(0,0,128);
 }
 .container {
-    background: red;
     margin: 0 auto;
     width: 981px;
-    background: linear-gradient(to bottom, #eee 0, #fff 900px) no-repeat;
 }
 .container-header {
     height: 50px;
     width: 961px;
-    background: rgba(244, 244, 244, 0.62);
     margin: 0 auto;
 }
 footer{

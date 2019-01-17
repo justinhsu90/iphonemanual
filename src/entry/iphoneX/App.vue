@@ -3,8 +3,11 @@
         <div>
         <section style="line-height:68px;padding-left:20px;">
             <h1 style="color:white;display:inline-block;">Apple phone screen change instructions</h1>       
+            <el-select  style="margin-left:10px;float:right" size="small" v-model="select" @change="handlSelect">
+            <el-option v-for="(v,i) in selectOption" :label="v.label" :value="v.value" :key="i"></el-option>
+        </el-select>
         </section>
-        <directiveNav select="/iphoneX"></directiveNav>
+        <directiveNav></directiveNav>
      </div>   
         <div class="container">
             <div class="container-header"></div>
@@ -17,9 +20,60 @@
 import iphoneX from '@/components/iphoneX';
 import directiveNav from '@/common/nav'
 export default {
+     data(){
+         return {
+            select:'/iphoneX',
+            selectOption:[{
+                label:'iphone 6',
+                value:'/'
+            },
+            {
+                label:'iphone 6S',
+                value:'/iphone6s'
+            },
+            {
+                label:'iphone 6 Plus',
+                value:'/iphone6p'
+            },
+            {
+                label:'iphone 6S Plus',
+                value:'/iphone6sp'
+            },
+            {
+                label:'iphone 7 Plus',
+                value:'/iphone7p'
+            },
+            {
+                label:'iphone 8',
+                value:'/iphone8'
+            },
+            {
+                label:'iphone 8 Plus',
+                value:'/iphone8p'
+            },
+            {
+                label:'iphone SE/5S',
+                value:'/iphonese'
+            },
+            {
+                label:'iphone X',
+                value:'/iphoneX'
+            },
+            ]
+         }
+     },
     components:{
         iphoneX,
         directiveNav
+    },
+    methods:{
+        handlSelect(v){
+            if(v == '/' ){
+                 window.location.href = `/`;
+          }else{
+               window.location.href = `${v}.html`;
+          }
+        }
     }
 }
 </script>
@@ -27,7 +81,7 @@ export default {
 @import "../../assets/scss/reset.scss";
 section {
     height: 68px; 
-    background-color: #212426;
+    background-color: rgb(0,0,128);
 }
 nav {
     background: #f5f5f5;
@@ -35,15 +89,12 @@ nav {
     height: 45px;
 }
 .container {
-    background: red;
     margin: 0 auto;
     width: 981px;
-    background: linear-gradient(to bottom, #eee 0, #fff 900px) no-repeat;
 }
 .container-header {
     height: 50px;
     width: 961px;
-    background: rgba(244, 244, 244, 0.62);
     margin: 0 auto;
 }
 footer{
